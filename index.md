@@ -173,7 +173,8 @@ Our group has published several papers on international conferences like ISCA, D
 
 
 #### **News**
-
+- Our paper "ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs" is accepted by ICCD, 2022. Congratulations to Denghui Wu.
+- Our paper "RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems" is accepted by ICCD, 2022. Congratulations to Bo Ding.
 - Our paper "MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM" is accepted by [ICCAD 2021](https://iccad.com/index.php). Congratulations to [Wei Zhao](https://thiszw.top).  
 - Our paper "CERES: Container-Based Elastic Resource Management System for Mixed Workloads is accepted by [ICPP 2021](https://oaciss.uoregon.edu/icpp21/). Congratulations to [Jinyu Yu](https://yujinyu.site). 
 - Our paper "Better atomic writes by exposing the flash out-of-band area to file systems" is accepted by [LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021#event-overview). Congratulations to Hongwei Qin.  
