@@ -5,8 +5,10 @@ title: "Publications"
 
 # Conference Paper
 
+## **2022**
+- **[ICCD]** **[RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems]()** is accepted by ICCD, 2022. Congratulations to Bo Ding.
+- **[ICCD]** **[ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs]()** is accepted by ICCD, 2022. Congratulations to DengHui Wu.
 ## **2021**
-
 - **[ICCAD]** **[MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM]()** is accepted by 40th International Conference on Computer-Aided Design (ICCAD), 2021. (Acceptance Rate: 121/514=23.5%)
   <br/>Wei Zhao, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Jie Xu, Chunyan Li, Gaoxiang Xu and Yiran Chen.
 - **[ICPP]** **[CERES: Container-Based Elastic Resource Management System for Mixed Workloads]()** is accepted by 50th International Conference on Parallel Processing (ICPP), 2021.
@@ -108,7 +110,8 @@ title: "Publications"
 # Journal Article
 ---
 ## 2022
-
+- **[TCAD]** **[A Low Latency and High Endurance MLC STT-MRAM based Cache System](https://ieeexplore.ieee.org/abstract/document/9761996)** accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2022.
+<br/> Wei Zhao, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Wei Tong, Dan Feng, Jingning Liu
 - **[FGCS]** **[Cora: Data correlations-based storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:-FonjvnnhkoC)** accepted by Future Generation Computer Systems(FGCS), 2022.
 <br/> Yu Chen, Wei Tong, Dan Feng, Zike Wang.
 - **[JPDC]** **[Workload-aware storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:e_rmSamDkqQC)** accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
