@@ -5,7 +5,6 @@ title: "Group Members"
 
 ## Teacher
 
-
 <table class="memberTable" border="0" width="100%" align="center">
         <tbody>
             <tr>
@@ -40,6 +39,7 @@ title: "Group Members"
 ## PhD Students
 
 ### In Lab
+
 #### SSS Group
 
 <table class="memberTable" border="0" width="100%" align="center">
@@ -187,8 +187,6 @@ title: "Group Members"
         </tbody>
 </table>
 
-
-
 ### Graduated
 
 2021:
@@ -196,12 +194,15 @@ title: "Group Members"
 > Chengning Wang (HUST)
 
 2020:
+
 > Jie Xu (Huawei)
 
 2019:
+
 > Yang Zhang (Huawei) , Yazhi Feng (Huawei)
 
 2018:
+
 > Zheng Li (Huawei) , Jianquan Zhang (Hubei University of Science and Technology)
 
 ## Master Students
@@ -373,13 +374,11 @@ title: "Group Members"
         </tbody>
 </table>
 
-
 ### Graduated
 
 2021:
 
 > Ziwei Zhao(Tencent), Yufei Xiong(Byte Dance), Zike Wang(Meituan), Junqing Qin(Huawei), Jie Yang(Intel), Qinian Liu(Alibaba), Kai Tang(Huawei)
->
 
 2020:
 
@@ -387,7 +386,7 @@ title: "Group Members"
 
 2019:
 
-> Yilin Li (Alibaba) , Mingshun Yang (Baidu) , Shuai Li (Electric Power of HeNan), Tian Guo(Baidu), Chengsheng Xie(Tmall), Kang  Yan(Tmall), Yue jiang(Intel)
+> Yilin Li (Alibaba) , Mingshun Yang (Baidu) , Shuai Li (Electric Power of HeNan), Tian Guo(Baidu), Chengsheng Xie(Tmall), Kang Yan(Tmall), Yue jiang(Intel)
 
 2018:
 
