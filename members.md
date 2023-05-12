@@ -213,37 +213,6 @@ title: "Group Members"
         <tbody>
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc741df8ce.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62fc7fe0.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62ef36f3.jpg" height="200" width="150"></div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <p>Denghui Wu</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Peihao Li</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Tianran Xiao</p>
-                    </div>
-                </td>                 
-            </tr>
-            <tr>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/15/sPcz2XuISriZNYR.jpg" height="200" width="150"></div>
-                </td>
-                <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62fbeb7a.jpg" height="200" width="150"></div>
                 </td>
                 <td>
@@ -251,11 +220,6 @@ title: "Group Members"
                 </td>
             </tr>
             <tr>
-                <td>
-                    <div style="text-align:center">
-                        <p>Minghao Yang</p>
-                    </div>
-                </td>   
                 <td>
                     <div style="text-align:center">
                         <a href="https://gasolly.github.io/">Xufei Pan</a>
@@ -375,6 +339,10 @@ title: "Group Members"
 </table>
 
 ### Graduated
+
+2022:
+
+> Minghao Yang(Bytedance), Denghui Wu(Alibaba Cloud), Tianran Xiao(Bytedance), Peihao Li(Jinshan Cloud), Xiao Luo(Meituan)
 
 2021:
 

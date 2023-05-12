@@ -36,3 +36,7 @@ title: ""
 ## 2. NBStack
 - Better atomic writes by exposing the flash out-of-band area to file systems
 - https://github.com/SSSSDS/NBStack
+
+## 3. SSDSim
+- SSD仿真
+- http://stlab.wnlo.hust.edu.cn/info/1092/1488.htm
