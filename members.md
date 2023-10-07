@@ -133,10 +133,10 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXu.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.png" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiuYibo.jpg" height="200" width="150"></div>
                 </td>
             </tr>
             <tr>
@@ -153,6 +153,26 @@ title: "Group Members"
                 <td>
                     <div style="text-align:center">
                         <p>Yibo Liu</p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LeiTaoming.jpg" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DengYao.jpg" height="200" width="150"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://github.com/Bodensteins">Taoming Lei</a>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://github.com/NickLee2050">Yao Deng</a>
                     </div>
                 </td>
             </tr>
