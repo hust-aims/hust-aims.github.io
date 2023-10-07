@@ -8,7 +8,7 @@ title: "Publications"
 ## **2023**
 - **[ICCD]** **[ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators]()** is accepted by ICCD, 2023. Congratulations to Jinpeng Liu.
 - **[ICCD]** **[LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs]()** is accepted by ICCD, 2023. Congratulations to Biyong Liu.
-
+- **[DATE]** **[ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning]()** is accepted by DATE 2023. Congratulations to Heng Zhou.
 ## **2022**
 - **[ICCD]** **[RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems]()** is accepted by ICCD, 2022. Congratulations to Bo Ding.
 - **[ICCD]** **[ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs]()** is accepted by ICCD, 2022. Congratulations to DengHui Wu.
