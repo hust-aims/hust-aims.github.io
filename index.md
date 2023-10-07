@@ -94,7 +94,6 @@ Our group has published several papers on international conferences like ISCA, D
 
 <body>
     <!--    div#divout>(div.imgdiv>img+div.title{标题文本$})*4 +(div.dotdiv>span.dot*4)-->
-
     <div id="divout">
         <div class="imgdiv" style="display: block">
             <img src="/assets/img/league_building/2021_11_autumn.png" height="80%" width="80%" alt="">
