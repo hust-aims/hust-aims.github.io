@@ -62,7 +62,7 @@ title: "Group Members"
                 <div style="text-align:center">
                     <a href="https://ieeexplore.ieee.org/author/37086938196">Xueliang Wei</a>
                 </div>
-            </td>     
+            </td>
         </tr>
     </tbody>
 </table>
@@ -78,7 +78,8 @@ title: "Group Members"
                     <div align="center" style="text-align:center border-radius:10%"><img src="https://i.loli.net/2021/07/15/DVFnCow9qYKBmav.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/15/ARMZl5bUivrXYFG.jpg" height="200" width="150"></div>                </td>
+                    <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/15/ARMZl5bUivrXYFG.jpg" height="200" width="150"></div>
+                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efad1a9bda8.jpg" height="200" width="150"></div>
                 </td>
@@ -126,7 +127,7 @@ title: "Group Members"
                     <div style="text-align:center">
                         <p>Jinpeng Liu</p>
                     </div>
-                </td>   
+                </td>
             </tr>
             <tr>
                 <td>
@@ -228,7 +229,7 @@ title: "Group Members"
                 </td>
                  <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-QinZhongyu.jpg" height="200" width="150"></div>
-                </td>                
+                </td>
             </tr>
             <tr>
                 <td>
@@ -240,30 +241,30 @@ title: "Group Members"
                     <div style="text-align:center">
                         <p>Kunhua Mo</p>
                     </div>
-                </td>  
+                </td>
                 <td>
                     <div style="text-align:center">
                         <a href="https://github.com/qzylalala">Zhongyu Qin</a>
                     </div>
-                </td>               
-            </tr>       
+                </td>
+            </tr>
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-XiaYuan.jpg" height="200" width="150"></div>
-                </td> 
+                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-WanRun.jpg" height="200" width="150"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LuoHongjie.jpg" height="200" width="150"></div>
-                </td>                                
-            </tr> 
+                </td>
+            </tr>
             <tr>
                 <td>
                     <div style="text-align:center">
                         <a href ="https://github.com/JINGE-ui">Yuan Xia</a>
                     </div>
-                </td>  
+                </td>
                 <td>
                     <div style="text-align:center">
                         <p>Run Wan</p>
@@ -273,8 +274,8 @@ title: "Group Members"
                     <div style="text-align:center">
                         <p>Hongjie Luo</p>
                     </div>
-                </td>                               
-            </tr>                   
+                </td>
+            </tr>
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
@@ -296,10 +297,78 @@ title: "Group Members"
                     <div style="text-align:center">
                         <a href="https://github.com/liubiyongge">Biyong Liu</a>
                     </div>
-                </td>   
+                </td>
                 <td>
                     <div style="text-align:center">
                         <p>Qiankun Liu</p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LuHongye.jpg" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LiLin.jpg" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-HuZhiyang.jpg" height="200" width="150"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://gitlab.com/raglarose">Hongye Lu</a>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://github.com/RatRat0">Lin Li</a>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Zhiyang Hu</p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-ZhangHongtao.jpg" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DongYuqi.png" height="200" width="150"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Hongtao Zhang</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Yimin Lu</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://jihulab.com/DYQ">Yuqi Dong</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-ZouYige.jpg" height="200" width="150"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Yige Zou</p>
                     </div>
                 </td>
             </tr>
