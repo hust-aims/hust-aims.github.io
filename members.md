@@ -155,7 +155,7 @@ title: "Group Members"
                         <p>Yibo Liu</p>
                     </div>
                 </td>
-            </tr>                      
+            </tr>
         </tbody>
 </table>
 
@@ -252,31 +252,6 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1f9ca.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2020/20-LvPengze.jpg" height="200" width="150"></div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <p>Mengran Zhang</p>
-                    </div>
-                </td>   
-               <td>
-                    <div style="text-align:center">
-                        <p>Xiao Luo</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://github.com/PancrasL">Pengze lyu</a>
-                    </div>
-                </td> 
-            </tr>            
-            <tr>
-                <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc63005688.jpg" height="200" width="150"></div>
                 </td>
                 <td>
@@ -286,6 +261,11 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
+                        <p>Mengran Zhang</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
                         <a href="https://github.com/liubiyongge">Biyong Liu</a>
                     </div>
                 </td>   
@@ -293,7 +273,7 @@ title: "Group Members"
                     <div style="text-align:center">
                         <p>Qiankun Liu</p>
                     </div>
-                </td>              
+                </td>
             </tr>
         </tbody>
 </table>
