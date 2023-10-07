@@ -4,8 +4,8 @@ title: "Home"
 toc: true
 url: /
 ---
-#### **Welcome to SSS&SDS Group!**
-SSS&SDS group belongs to [Data Storage and Application Lab](http://storage.hust.edu.cn/). SSS means Solid State Storage, while SDS indicates Software Defined Storage. We aim at building high performance and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid-state drive, high performance compression, cloud object store).
+#### **Welcome to AIMS Group!**
+AIMS group belongs to [Data Storage and Application Lab](http://storage.hust.edu.cn/). AIMS refers to "Advanced Intelligent Memory Systems". We aim at building high performance and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid-state drive, high performance compression, cloud object store, and emerging NVMs).
 
 Our group has published several papers on international conferences like ISCA, DAC, DATE, ICCAD, ICPP, MSST, ICCD, LCTES, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE T-ED, ACM TACO, ACM TODAES, JSA, etc.
 
