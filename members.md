@@ -163,6 +163,9 @@ title: "Group Members"
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DengYao.jpg" height="200" width="150"></div>
                 </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LiZezheng.png" height="200" width="150"></div>
+                </td>
             </tr>
             <tr>
                 <td>
@@ -172,7 +175,12 @@ title: "Group Members"
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://github.com/NickLee2050">Yao Deng</a>
+                        <p>Yao Deng</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Zezheng Li</p>
                     </div>
                 </td>
             </tr>
