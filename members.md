@@ -81,7 +81,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/15/ARMZl5bUivrXYFG.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efad1a9bda8.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2019/19-ChengHuan.jpg" height="200" width="150"></div>
                 </td>
             </tr>
             <tr>
