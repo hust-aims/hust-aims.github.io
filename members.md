@@ -9,10 +9,10 @@ title: "Group Members"
         <tbody>
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/feng_avator.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/feng_avator.jpg" height="300" width="225"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/tong_avator.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/tong_avator.jpg" height="300" width="225"></div>
                 </td>
             </tr>
             <tr>
