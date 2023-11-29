@@ -12,7 +12,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="./assets/img/feng.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/tong_new.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/tong.jpg" height="200" width="150"></div>
                 </td>
             </tr>
             <tr>
