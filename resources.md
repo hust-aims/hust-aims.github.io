@@ -26,7 +26,7 @@ title: ""
 
 10. LaTeX 科研写作工具，建议使用TeXStudio，[http://www.texstudio.org/](http://www.texstudio.org/)
 
-11. CCF中国计算机学会推荐期刊及会议列表，查文献投论文的重要工具。[download](./assets/resources/中国计算机学会推荐国际学术会议和期刊目录-2019.pdf)
+11. CCF中国计算机学会推荐期刊及会议列表，查文献投论文的重要工具。[Website](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 
 # Open source software
 ## 1. QBLK
