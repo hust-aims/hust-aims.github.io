@@ -125,7 +125,7 @@ Our group has published several papers on international conferences like ISCA, D
         </div>
         <div class="imgdiv">
             <img src="/assets/img/2024_graduate/2024-1.jpeg" height="80%" width="80%" alt="">
-            <div class="title">Graduates in 2024</div>
+            <div class="title">Graduation Party in 2024</div>
         </div>
         <div class="dotdiv">
             <span class="dot active"></span>
