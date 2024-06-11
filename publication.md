@@ -122,7 +122,7 @@ title: "Publications"
 # Journal Article
 ---
 ## **2024**
-- **[TC]** **[Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems]()** accepted by IEEE Transcations on Computers(TC), 2024. Congratulations to Dong Huang.
+- **[TC]** **[Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems]()** accepted by IEEE Transcations on Computers(TC), 2024. Congratulations to Ding Bo.
 
 ## **2023**
 - **[TACO]** **[SplitZNS: Towards an Efficient LSM-tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3608476)** accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2023.
