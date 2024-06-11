@@ -11,6 +11,7 @@ title: "Publications"
 - **[DATE]** **[A Read Latency Variation Aware Independent Read Scheme for QLC SSDs]()** is accepted by DATE, 2024. Congratulations to Dong Huang.
 
 ## **2023**
+- **[ICCD]** **[Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs]()** is accepted by ICCD, 2023. Congratulations to Weilin Zhu.
 - **[ICCD]** **[ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators]()** is accepted by ICCD, 2023. Congratulations to Jinpeng Liu.
 - **[ICCD]** **[LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs]()** is accepted by ICCD, 2023. Congratulations to Biyong Liu.
 - **[DATE]** **[ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning]()** is accepted by DATE 2023. Congratulations to Heng Zhou.

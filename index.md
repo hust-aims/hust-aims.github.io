@@ -181,6 +181,7 @@ Our group has published several papers on international conferences like ISCA, D
 - Our paper "Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems" is accepted by TC 2024. Congratulations to Bo Ding.
 - Our paper "STAGGER: Enabling All-in-One Subarray Sensing for Efficient Module-level Processing in Open-Bitline ReRAM" is accepted by DAC 2024. Congratulations to Chengning Wang.
 - Our paper "A Read Latency Variation Aware Independent Read Scheme for QLC SSDs" is accepted by DATE 2024. Congratulations to Dong Huang.
+- Our paper "Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs" is accepted by ICCD 2023. Congratulations to Weilin Zhu.
 - Our paper "ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators" is accepted by ICCD 2023. Congratulations to Jinpeng Liu.
 - Our paper "LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs" is accepted by ICCD 2023. Congratulations to Biyong Liu.
 - Our paper "ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning" is accepted by [DATE 2023](https://www.date-conference.com/date-2023-accepted-papers). Congratulations to Heng Zhou.
