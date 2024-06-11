@@ -5,6 +5,11 @@ title: "Publications"
 
 # Conference Paper
 
+## **2024**
+- **[ICPP]** **[LpaqHP: A High-Performance FPGA Accelerator for LPAQ Compression]()** is accepted by ICPP, 2024. Congratulations to Weilin Zhu.
+- **[DAC]** **[STAGGER: Enabling All-in-One Subarray Sensing for Efficient Module-level Processing in Open-Bitline ReRAM]()** is accepted by DAC, 2024. Congratulations to Chengning Wang.
+- **[DATE]** **[A Read Latency Variation Aware Independent Read Scheme for QLC SSDs]()** is accepted by DATE, 2024. Congratulations to Dong Huang.
+
 ## **2023**
 - **[ICCD]** **[ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators]()** is accepted by ICCD, 2023. Congratulations to Jinpeng Liu.
 - **[ICCD]** **[LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs]()** is accepted by ICCD, 2023. Congratulations to Biyong Liu.
@@ -115,6 +120,9 @@ title: "Publications"
 
 # Journal Article
 ---
+## **2024**
+- **[TC]** **[Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems]()** accepted by IEEE Transcations on Computers(TC), 2024. Congratulations to Dong Huang.
+
 ## **2023**
 - **[TACO]** **[SplitZNS: Towards an Efficient LSM-tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3608476)** accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2023.
 <br/> Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong
