@@ -6,6 +6,7 @@ title: "Publications"
 # Conference Paper
 
 ## **2024**
+- **[MICRO]** **[DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture]()** is accepted by MICRO, 2024. Congratulations to Heng Zhou.
 - **[ICPP]** **[LpaqHP: A High-Performance FPGA Accelerator for LPAQ Compression]()** is accepted by ICPP, 2024. Congratulations to Weilin Zhu.
 - **[DAC]** **[STAGGER: Enabling All-in-One Subarray Sensing for Efficient Module-level Processing in Open-Bitline ReRAM]()** is accepted by DAC, 2024. Congratulations to Chengning Wang.
 - **[DATE]** **[A Read Latency Variation Aware Independent Read Scheme for QLC SSDs]()** is accepted by DATE, 2024. Congratulations to Dong Huang.

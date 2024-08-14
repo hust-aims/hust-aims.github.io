@@ -7,7 +7,7 @@ url: /
 #### **Welcome to AIMS Group!**
 AIMS group belongs to [Data Storage and Application Lab](http://storage.hust.edu.cn/). AIMS refers to Advanced Intelligent Memory Systems. We aim at building high performance and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid-state drive, high performance compression, cloud object store, and emerging NVMs).
 
-Our group has published several papers on international conferences like ISCA, DAC, DATE, ICCAD, ICPP, MSST, ICCD, LCTES, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE T-ED, ACM TACO, ACM TODAES, JSA, etc.
+Our group has published several papers on international conferences like ISCA, MICRO, DAC, DATE, ICCAD, ICPP, MSST, ICCD, LCTES, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE T-ED, ACM TACO, ACM TODAES, JSA, etc.
 
 
 <head>
@@ -177,6 +177,7 @@ Our group has published several papers on international conferences like ISCA, D
 
 
 #### **News**
+- Our paper "DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture" is accepted by MICRO, 2024. Congratulations to Heng Zhou.
 - Our paper "LpaqHP: A High-Performance FPGA Accelerator for LPAQ Compression" is accepted by ICPP 2024. Congratulations to Weilin Zhu.
 - Our paper "Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems" is accepted by TC 2024. Congratulations to Bo Ding.
 - Our paper "STAGGER: Enabling All-in-One Subarray Sensing for Efficient Module-level Processing in Open-Bitline ReRAM" is accepted by DAC 2024. Congratulations to Chengning Wang.
@@ -184,13 +185,6 @@ Our group has published several papers on international conferences like ISCA, D
 - Our paper "Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs" is accepted by ICCD 2023. Congratulations to Weilin Zhu.
 - Our paper "ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators" is accepted by ICCD 2023. Congratulations to Jinpeng Liu.
 - Our paper "LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs" is accepted by ICCD 2023. Congratulations to Biyong Liu.
-- Our paper "ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning" is accepted by [DATE 2023](https://www.date-conference.com/date-2023-accepted-papers). Congratulations to Heng Zhou.
-- Our paper "ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs" is accepted by ICCD, 2022. Congratulations to Denghui Wu.
-- Our paper "RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems" is accepted by ICCD, 2022. Congratulations to Bo Ding.
-- Our paper "MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM" is accepted by [ICCAD 2021](https://iccad.com/index.php). Congratulations to [Wei Zhao](https://thiszw.top).  
-- Our paper "CERES: Container-Based Elastic Resource Management System for Mixed Workloads is accepted by [ICPP 2021](https://oaciss.uoregon.edu/icpp21/). Congratulations to [Jinyu Yu](https://yujinyu.site). 
-- Our paper "Better atomic writes by exposing the flash out-of-band area to file systems" is accepted by [LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021#event-overview). Congratulations to Hongwei Qin.  
-- Our paper "Improving the energy efficency of STT-MRAM based approximate cache" is accepted by [DATE 2021](https://www.date-conference.com/). Congratulations to [Wei Zhao](https://thiszw.top).  
-- Our paper "MorLog: Morphable Hardware Logging for Atomic Persistence in Non-Volatile Main Memory" is accepted by [ISCA 2020](https://iscaconf.org/isca2020/). Congratulations to Xueliang Wei.  
+- Our paper "ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning" is accepted by DATE 2023. Congratulations to Heng Zhou.
 
 **We are looking for motivated undergraduates and master students to join the team, please feel free to contact me. (Email: tongwei@hust.edu.cn)**
