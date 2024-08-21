@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "" 
+title: "Resources" 
 ---
 # Resources
 各类 **通用** 学术资源的分享链接
