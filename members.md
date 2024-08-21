@@ -273,7 +273,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-XiaYuan.jpg" height="200"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-ZhangMengran.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DongYuqi.png" height="200"></div>
