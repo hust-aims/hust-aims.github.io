@@ -3,7 +3,7 @@ layout: single
 title: "Group Members"
 ---
 
-## Teacher
+## Teachers
 
 <table class="memberTable" border="0" width="100%" align="center">
         <tbody>
@@ -32,7 +32,7 @@ title: "Group Members"
         </tbody>
 </table>
 
-## Postdoc
+## Postdocs
 
 <table class="memberTable" border="0" width="100%" align="center">
     <tbody>
