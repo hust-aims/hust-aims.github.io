@@ -396,9 +396,13 @@ title: "Group Members"
                     <div style="text-align:center">
                         <a href="https://github.com/123456789a12">Shengyu Jin</a>
                     </div>
+                </td>
+                <td>
                     <div style="text-align:center">
                         <a href="https://github.com/Weipp7">Panyue Wei</a>
                     </div>
+                </td>
+                <td>
                     <div style="text-align:center">
                         <a href="https://github.com/spacemaninhust">Yuhang Zhao</a>
                     </div>
