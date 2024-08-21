@@ -44,7 +44,7 @@ title: "Publications"
   <br/>Wei Zhao, Wei Tong, Dan Feng, Jingning Liu, Zhangyu Chen, Jie Xu, Bing Wu, Chengning Wang and Bo Liu.
 
 ## **2020**
-- **[ISCA]** **[MorLog: Morphable Hardware Logging for Atomic Persistence in Non-Volatile Main Memory](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a610/466100a610.pdf)** in Proceedings of 47th Annual International Symposium on Computer Architecture (ISCA), 2020.
+- **[ISCA]** **[MorLog: Morphable Hardware Logging for Atomic Persistence in Non-Volatile Main Memory](https://ieeexplore.ieee.org/document/9138962)** in Proceedings of 47th Annual International Symposium on Computer Architecture (ISCA), 2020.
   <br/>Xueliang Wei, Dan Feng, Wei Tong, Jingning Liu, Liuqing Ye.
 - **[ICCD]** **[DualFS: A Coordinative Flash File System with Flash Block Dual-mode Switching](https://ieeexplore.ieee.org/abstract/document/9283510/)** in Proceedings of IEEE 38th International Conference on Computer Design (ICCD), 2020.
   <br/>Bing Wu, Mengye Peng, Dan Feng, Wei Tong.
