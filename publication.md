@@ -8,26 +8,37 @@ title: "Publications"
 ## **2024**
 - **[MICRO]** **[DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture]()** is accepted by 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024. 
   <br/>Heng Zhou, Bing Wu, Huan Cheng, Jinpeng Liu, Taoming Lei, Dan Feng, Wei Tong.
-- **[ICPP]** **[LpaqHP: A High-Performance FPGA Accelerator for LPAQ Compression]()** is accepted by ICPP, 2024. Congratulations to Weilin Zhu.
-- **[DAC]** **[STAGGER: Enabling All-in-One Subarray Sensing for Efficient Module-level Processing in Open-Bitline ReRAM]()** is accepted by DAC, 2024. Congratulations to Chengning Wang.
-- **[DATE]** **[A Read Latency Variation Aware Independent Read Scheme for QLC SSDs]()** is accepted by DATE, 2024. Congratulations to Dong Huang.
+- **[ICPP]** **[LpaqHP: A High-Performance FPGA Accelerator for LPAQ Compression](https://dl.acm.org/doi/10.1145/3673038.3673051)** is accepted by Proceedings of the 53rd International Conference on Parallel Processing (ICPP), 2024.
+  <br/>Weilin Zhu, Wei Tong, Hujun Ge, Zuoxian Zhang, Mengran Zhang, Wen Zhou.
+- **[DAC]** **[STAGGER: Enabling All-in-One Subarray Sensing for Efficient Module-level Processing in Open-Bitline ReRAM](https://61dac.conference-program.com/presentation/?id=RESEARCH158&sess=sess130)** is accepted by 61st ACM/IEEE Design Automation Conference (DAC), 2024.
+  <br/>Chengning Wang, Dan Feng, Yuchong Hu, Wei Tong, Jingning Liu.
+- **[DATE]** **[A Read Latency Variation Aware Independent Read Scheme for QLC SSDs](https://ieeexplore.ieee.org/document/10546573)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024.
+  <br/>Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong.
 
 ## **2023**
-- **[ICCD]** **[Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs]()** is accepted by ICCD, 2023. Congratulations to Weilin Zhu.
-- **[ICCD]** **[ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators]()** is accepted by ICCD, 2023. Congratulations to Jinpeng Liu.
-- **[ICCD]** **[LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs]()** is accepted by ICCD, 2023. Congratulations to Biyong Liu.
-- **[DATE]** **[ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning]()** is accepted by DATE 2023. Congratulations to Heng Zhou.
+- **[ICCD]** **[Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs](https://www.computer.org/csdl/proceedings-article/iccd/2023/429100a316/1T97qGKKIJW)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
+  <br/>Weilin Zhu, Wei Tong.
+- **[ICCD]** **[ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators](https://www.computer.org/csdl/proceedings-article/iccd/2023/429100a102/1T97lnxbqkE)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
+  <br/>Jinpeng Liu, Wei Tong, Bing Wu, Huan Cheng, Chengning Wang.
+- **[ICCD]** **[LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs](https://ieeexplore.ieee.org/document/10360942)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
+  <br/>Biyong Liu, Yuan Xia, Xueliang Wei, Wei Tong.
+- **[DAC]** **[CorcPUM: Efficient Processing Using Cross-Point Memory via Cooperative Row-Column Access Pipelining and Adaptive Timing Optimization in Subarrays](https://ieeexplore.ieee.org/document/10247700)** is accepted by 60st ACM/IEEE Design Automation Conference (DAC), 2023.
+  <br/>Chengning Wang, Dan Feng, Wei Tong, Jinpeng Liu.
+- **[DATE]** **[ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based Accelerator for Online Deep Learning](https://ieeexplore.ieee.org/document/10137130)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2023.
+  <br/>Heng Zhou, Bing Wu, Huan Cheng, Wei Zhao, Xueliang Wei, Jinpeng Liu, Dan Feng, Wei Tong.
 
 ## **2022**
-- **[ICCD]** **[RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems]()** is accepted by ICCD, 2022. Congratulations to Bo Ding.
-- **[ICCD]** **[ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs]()** is accepted by ICCD, 2022. Congratulations to DengHui Wu.
+- **[ICCD]** **[RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems](https://ieeexplore.ieee.org/document/9978282)** is accepted by IEEE 40th International Conference on Computer Design (ICCD), 2022. 
+  <br/>Bo Ding, Wei Tong, Yu Hua, Zhangyu Chen, Xueliang Wei, Dan Feng.
+- **[ICCD]** **[ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs](https://www.semanticscholar.org/paper/ZNSKV%3A-Reducing-Data-Migration-in-LSMT-Based-KV-on-Wu-Liu/a53821d3d2dc64d4b3f0b7499d7f14d2f8ae547d)** is accepted by IEEE 40th International Conference on Computer Design (ICCD), 2022. 
+  <br/>Denghui Wu, Biyong Liu, Wei Zhao, Wei Tong.
 
 ## **2021**
-- **[ICCAD]** **[MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM]()** is accepted by 40th International Conference on Computer-Aided Design (ICCAD), 2021. 
+- **[ICCAD]** **[MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM](https://ieeexplore.ieee.org/document/9643529)** is accepted by 40th International Conference on Computer-Aided Design (ICCAD), 2021. 
   <br/>Wei Zhao, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Jie Xu, Chunyan Li, Gaoxiang Xu and Yiran Chen.
-- **[ICPP]** **[CERES: Container-Based Elastic Resource Management System for Mixed Workloads]()** is accepted by 50th International Conference on Parallel Processing (ICPP), 2021.
+- **[ICPP]** **[CERES: Container-Based Elastic Resource Management System for Mixed Workloads](https://dl.acm.org/doi/10.1145/3472456.3472459)** is accepted by 50th International Conference on Parallel Processing (ICPP), 2021.
   <br/>Jinyu Yu, Dan Feng, Wei Tong, Pengze Lv, and Yufei Xiong.
-- **[LCTES]** **[Better Atomic Writes by Exposing the Flash Out-Of-Band Area to File Systems](https://dl.acm.org/doi/abs/10.1145/3461648.3463843)** in Proceedings of the 22nd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES), 2021. [[code](https://github.com/WNLO-DSAL/NBStack)]
+- **[LCTES]** **[Better Atomic Writes by Exposing the Flash Out-Of-Band Area to File Systems](https://dl.acm.org/doi/abs/10.1145/3461648.3463843)** in Proceedings of the 22nd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES), 2021.
   <br/>Hongwei Qin, Dan Feng, Wei Tong, Yutong Zhao, Sheng Qiu, Fei Liu, Shu Li.
 - **[DATE]** **[Improving the energy efficiency of STT-MRAM based approximate cache](http://thiszw.top/paper/appcache.pdf)** in Proceedings of Design, Automation and Test in Europe Conference (DATE), 2021.(Acceptance Rate: 24%)
   <br/>Wei Zhao, Wei Tong, Dan Feng, Jingning Liu, Zhangyu Chen, Jie Xu, Bing Wu, Chengning Wang and Bo Liu.
@@ -59,7 +70,7 @@ title: "Publications"
   <br/>Yang Zhang, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Jie Xu.
 - **[MSST]** **[CeSR: A Cell State Remapping Strategy to Reduce Raw Bit Error Rate of MLC NAND Flash](https://storageconference.us/2019/Research/CeSR.pdf)** in Proceedings of 35th International Conference on Massive Storage Systems and Technology (MSST), 2019.
   <br/>Yutong Zhao, Wei Tong, Jingning Liu, Dan Feng, Hongwei Qin.
-- **[DATE]** **[QBLK: Towards Fully Exploiting the Parallelism of Open-Channel SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8715049)** in Proceedings of Design, Automation and Test in Europe Conference (DATE), 2019. [[code](https://github.com/SSSSDS/QBLK)]
+- **[DATE]** **[QBLK: Towards Fully Exploiting the Parallelism of Open-Channel SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8715049)** in Proceedings of Design, Automation and Test in Europe Conference (DATE), 2019.
   <br/>Hongwei Qin, Dan Feng, Wei Tong, Jingning Liu, Yutong Zhao.
 - **[ICCAD]** **[Accelerating garbage collection for 3D MLC flash memory with SLC blocks](https://ieeexplore.ieee.org/abstract/document/8942097)** in Proceedings of 38th International Conference on Computer-Aided Design (ICCAD), 2019.
   <br/>Shuai Li, Wei Tong, Jingning Liu, Bing Wu, Yazhi Feng.
@@ -124,34 +135,39 @@ title: "Publications"
 # Journal Article
 ---
 ## **2024**
-- **[TC]** **[Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems]()** accepted by IEEE Transcations on Computers(TC), 2024. Congratulations to Ding Bo.
+- **[TC]** **[Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems](https://ieeexplore.ieee.org/document/10564838)** is accepted by IEEE Transcations on Computers(TC), 2024. 
+  <br/>Bo Ding, Wei Tong, Yu Hua, Zhangyu Chen, Xueliang Wei, Dan Feng.
 
 ## **2023**
-- **[TACO]** **[SplitZNS: Towards an Efficient LSM-tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3608476)** accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2023.
-  <br/> Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong
+- **[TACO]** **[SplitZNS: Towards an Efficient LSM-tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3608476)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2023.
+  <br/>Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong.
+- **[TCAD]** **[APPcache+: An STT-MRAM-Based Approximate Cache System With Low Power and Long Lifetime](https://ieeexplore.ieee.org/document/10103151)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2023.
+  <br/>Wei Zhao, Dan Feng, Wei Tong, Jingning Liu, Zhangyu Chen, Bing Wu, Chengning Wang.
 
 ## **2022**
-- **[TCAD]** **[A Low Latency and High Endurance MLC STT-MRAM based Cache System](https://ieeexplore.ieee.org/abstract/document/9761996)** accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2022.
-  <br/> Wei Zhao, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Wei Tong, Dan Feng, Jingning Liu
-- **[FGCS]** **[Cora: Data correlations-based storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:-FonjvnnhkoC)** accepted by Future Generation Computer Systems(FGCS), 2022.
+- **[TCAD]** **[A Low Latency and High Endurance MLC STT-MRAM based Cache System](https://ieeexplore.ieee.org/abstract/document/9761996)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2022.
+  <br/>Wei Zhao, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Wei Tong, Dan Feng, Jingning Liu.
+- **[FGCS]** **[Cora: Data correlations-based storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:-FonjvnnhkoC)** is accepted by Future Generation Computer Systems(FGCS), 2022.
   <br/> Yu Chen, Wei Tong, Dan Feng, Zike Wang.
-- **[JPDC]** **[Workload-aware storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:e_rmSamDkqQC)** accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
+- **[JPDC]** **[Workload-aware storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:e_rmSamDkqQC)** is accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
   <br/>Yu Chen, Wei Tong, Dan Feng, Zike Wang.
-- **[计算机研究与发展]** **Coordinated Metadata Management for Secure Persistent Memory** accepted by Journal of Computer Research and Development, 2022.
+- **[JPDC]** **[Terms: Task management policies to achieve high performance for mixed workloads using surplus resources]()** is accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
+  <br/>Jinyu Yu, Wei Tong, Pengze Lv, Dan Feng.
+- **[计算机研究与发展]** **Coordinated Metadata Management for Secure Persistent Memory** is accepted by Journal of Computer Research and Development, 2022.
   <br/>Xueliang Wei, Mingshun Yang, Dan Feng, Jingning Liu, Bing Wu, Renzhi Xiao, Wei Tong.
-- **[计算机研究与发展]** **Energy-Efficient Floating-Point Memristive In-Memory Processing System based on Self-selective Mantissa Compaction** accepted by Journal of Computer Research and Development, 2022.
+- **[计算机研究与发展]** **Energy-Efficient Floating-Point Memristive In-Memory Processing System based on Self-selective Mantissa Compaction** is accepted by Journal of Computer Research and Development, 2022.
   <br/>Wenlong Ding, Chengning Wang, Wei Tong.
 
 ## **2021**
-- **[TCAD]** **[Space-Time-Efficient Modeling of Large-Scale 3D Cross-Point Memory Arrays by Operation Adaption and Network Compaction](https://ieeexplore.ieee.org/abstract/document/9592686)** accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
+- **[TCAD]** **[Space-Time-Efficient Modeling of Large-Scale 3D Cross-Point Memory Arrays by Operation Adaption and Network Compaction](https://ieeexplore.ieee.org/abstract/document/9592686)** is accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
   <br/>Chengning Wang,Dan Feng,Wei Tong,Jingning Liu,Bing Wu, Yiran Chen.
 - **[JSA]** **[QBLKe: Host-side flash translation layer management for Open-Channel SSDs](https://www.sciencedirect.com/science/article/pii/S1383762121001624)** in Journal of Systems Architecture (JSA), 2021.
   <br/>Hongwei Qin, Dan Feng, Wei Tong, Yutong Zhao, Mengye Peng, Jingning Liu.
 
 ## **2020**
-- **[TCAD]** **[Improving Multilevel Writes on Vertical 3D Cross-Point Resistive Memory](https://dl.acm.org/doi/abs/10.1145/3404397.3404461)** accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
+- **[TCAD]** **[Improving Multilevel Writes on Vertical 3D Cross-Point Resistive Memory](https://dl.acm.org/doi/abs/10.1145/3404397.3404461)** is accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
   <br/>Chengning Wang, Dan Feng, Wei Tong, Yu Hua, Jingning Liu, Bing Wu, Wei Zhao, Linghao Song, Yang Zhang, Jie Xu, Xueliang Wei, Yiran Chen.
-- **[TC]** **[Improving Write Performance on Cross-Point RRAM Arrays by Leveraging Multidimensional Non-Uniformity of Cell Effective Voltage](https://dl.acm.org/doi/abs/10.1145/3404397.3404461)** accepted by Transactions on Computers (TC), 2020.
+- **[TC]** **[Improving Write Performance on Cross-Point RRAM Arrays by Leveraging Multidimensional Non-Uniformity of Cell Effective Voltage](https://dl.acm.org/doi/abs/10.1145/3404397.3404461)** is accepted by Transactions on Computers (TC), 2020.
   <br/>Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Bing Wu, Wei Zhao, Yang Zhang, Yiran Chen.
 - **[IEEE Access]** **[CeSR + Assisted LDPC: A Holistic Strategy to Improve MLC NAND Flash Reliability](https://ieeexplore.ieee.org/abstract/document/9055021)** is published in IEEE Access, 2020.
   <br/>Hongwei Qin, Yutong Zhao, Dan Feng, Jingning Liu, Wei Tong.

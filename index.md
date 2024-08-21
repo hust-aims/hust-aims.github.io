@@ -185,7 +185,9 @@ Our group has published several papers on international conferences like ISCA, M
 - Our paper "Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs" is accepted by ICCD 2023. Congratulations to Weilin Zhu.
 - Our paper "ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators" is accepted by ICCD 2023. Congratulations to Jinpeng Liu.
 - Our paper "LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs" is accepted by ICCD 2023. Congratulations to Biyong Liu.
-- Our paper "SplitZNS: Towards an Efficient LSM-tree on ZNS SSDs" is accepted by TACO 2024. Congratulations to Dong Huang.
+- Our paper "SplitZNS: Towards an Efficient LSM-tree on ZNS SSDs" is accepted by TACO 2023. Congratulations to Dong Huang.
+- Our paper "CorcPUM: Efficient Processing Using Cross-Point Memory via Cooperative Row-Column Access Pipelining and Adaptive Timing Optimization in Subarrays" is accepted by DAC 2023. Congratulations to Chengning Wang.
 - Our paper "ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning" is accepted by DATE 2023. Congratulations to Heng Zhou.
+- Our paper "APPcache+: An STT-MRAM-Based Approximate Cache System With Low Power and Long Lifetime" is accepted by TCAD 2023. Congratulations to Wei Zhao.
 
 **We are looking for motivated undergraduates and master students to join the team, please feel free to contact me. (Email: tongwei@hust.edu.cn)**

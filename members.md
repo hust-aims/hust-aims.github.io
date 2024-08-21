@@ -415,7 +415,7 @@ title: "Group Members"
 
 2024：
 
-> Biyong Liu(Alibaba), Qiankun Liu(Alibaba), Kunhua Mo(Huawei), Zuoxian Zhang(Zhejiang Jiaxing Organization Department)
+> Biyong Liu(Alibaba), Qiankun Liu(Alibaba), Kunhua Mo(Huawei), Zuoxian Zhang(Zhejiang Jiaxing Data Agency)
 
 2023:
 
