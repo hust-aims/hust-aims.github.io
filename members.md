@@ -334,7 +334,7 @@ title: "Group Members"
             </tr>
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-ZhangHongtao.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-ZhangHongtao.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
