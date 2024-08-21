@@ -120,6 +120,18 @@ Our group has published several papers on international conferences like ISCA, M
             <div class="title">DATE 2019</div>
         </div>
         <div class="imgdiv">
+            <img src="/assets/img/DATE23.jpg" height="80%" width="80%" alt="">
+            <div class="title">DATE 2023</div>
+        </div>
+        <div class="imgdiv">
+            <img src="/assets/img/DATE24.jpg" height="80%" width="80%" alt="">
+            <div class="title">DATE 2024</div>
+        </div>
+        <div class="imgdiv">
+            <img src="/assets/img/DAC24.jpg" height="80%" width="80%" alt="">
+            <div class="title">DAC 2024</div>
+        </div>
+        <div class="imgdiv">
             <img src="/assets/img/2021.jpg" height="80%" width="80%" alt="">
             <div class="title">Graduates in 2021</div>
         </div>
