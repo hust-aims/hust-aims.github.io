@@ -109,7 +109,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center border-radius:10%"><img src="./assets/img/member_avator/2020/20-DingBo.jpg" height="200"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2020/20-LiuJinpeng.jpg" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2021/21-LiuJinpeng.jpg" height="200"></div>
                 </td>
             </tr>
             <tr>
@@ -131,7 +131,7 @@ title: "Group Members"
             </tr>
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXu.jpg" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/21-HuangDong.png" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.jpg" height="200"></div>
@@ -143,7 +143,7 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://gitee.com/twelvecat">Xu Jiang</a>
+                        <p>Dong Huang</p>
                     </div>
                 </td>
                 <td>
@@ -159,10 +159,10 @@ title: "Group Members"
             </tr>
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LeiTaoming.jpg" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-JiangXu.jpg" height="200"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DengYao.jpg" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LeiTaoming.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LiZezheng.png" height="200"></div>
@@ -171,12 +171,12 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://github.com/Bodensteins">Taoming Lei</a>
+                        <a href="https://gitee.com/twelvecat">Xu Jiang</a>
                     </div>
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <p>Yao Deng</p>
+                        <a href="https://github.com/Bodensteins">Taoming Lei</a>
                     </div>
                 </td>
                 <td>
@@ -187,6 +187,9 @@ title: "Group Members"
             </tr>
             <tr>
                 <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DengYao.jpg" height="200"></div>
+                </td>
+                <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/WangYufei.png" height="200"></div>
                 </td>
                 <td>
@@ -194,6 +197,11 @@ title: "Group Members"
                 </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Yao Deng</p>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <a href="https://yufeiwang0821.github.io">Yufei Wang</a>
