@@ -131,7 +131,7 @@ title: "Group Members"
             </tr>
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/21-HuangDong.png" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2021/21-HuangDong.png" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.jpg" height="200"></div>
@@ -159,7 +159,7 @@ title: "Group Members"
             </tr>
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-JiangXu.jpg" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXu.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LeiTaoming.jpg" height="200"></div>
