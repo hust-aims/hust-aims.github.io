@@ -60,9 +60,9 @@ title: "Publications"
   <br/>Bihan Li, Wei Tong, Jingning Liu, Dan Feng, Yazhi Feng, Junqing Qin, Peihao Li and Bo Liu.
 
 ## **2019**
-- **[DAC]** **[Adaptive Granularity Encoding for Energy-efficient Non-Volatile Main Memory](https://csyhua.github.io/csyhua/hua-dac2019-coding.pdf)** in Proceedings of the 56th Design Automation Conference (DAC), 2019. (Acceptance rate: 22%)
+- **[DAC]** **[Adaptive Granularity Encoding for Energy-efficient Non-Volatile Main Memory](https://csyhua.github.io/csyhua/hua-dac2019-coding.pdf)** in Proceedings of the 56th Design Automation Conference (DAC), 2019.
   <br/>Jie Xu, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Yiran Chen, Chunyan Li, Gaoxiang Xu.
-- **[DAC]** **[An Efficient Spare-Line Replacement Scheme to Enhance NVM Security](https://csyhua.github.io/csyhua/hua-dac2019-security.pdf)** in Proceedings of the 56th Design Automation Conference (DAC), 2019. (Acceptance rate: 22%)
+- **[DAC]** **[An Efficient Spare-Line Replacement Scheme to Enhance NVM Security](https://csyhua.github.io/csyhua/hua-dac2019-security.pdf)** in Proceedings of the 56th Design Automation Conference (DAC), 2019.
   <br/>Jie Xu, Dan Feng, Yu Hua, Fangting Huang, Wen Zhou, Wei Tong, Jingning Liu.
 - **[ICCD Best Paper Candidate]** **[ReRAM Crossbar-Based Analog Computing Architecture for Naive Bayesian Engine](https://ieeexplore.ieee.org/abstract/document/8988629/)** in Proceedings of 37th International Conference on Computer Design (ICCD), 2019.
   <br/>Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao.
