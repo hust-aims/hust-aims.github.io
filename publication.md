@@ -204,12 +204,3 @@ title: "Publications"
 ## **2015**
 - **[TACO]** **[Improving Hybrid FTL by Fully Exploiting Internal SSD Parallelism with Virtual Blocks](https://dl.acm.org/doi/abs/10.1145/2677160)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO) 2015.
   <br/>Yi Qin, Dan Feng, Jingning Liu, Wei Tong, and Zhiming Zhu.
-
-
-
-# Outstanding Undergraduate Graduation Design 
-
-## 2021
-
-- 计算机科学与技术 刘锦鹏 [基于忆阻器存算融合架构的逻辑计算映射方法的设计与实现](http://jwc.hust.edu.cn/info/1142/4713.htm) 童薇
-- 计算机科学与技术 丁文隆 [面向高能效科学计算的忆阻器阵列存内处理系统研究](http://jwc.hust.edu.cn/info/1142/4713.htm) 童薇
