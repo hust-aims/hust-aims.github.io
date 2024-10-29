@@ -6,7 +6,7 @@ title: "Publications"
 # Conference Paper
 
 ## **2024**
-- **[MICRO]** **[DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture]()** is accepted by 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024. 
+- **[MICRO]** **[DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture](https://conferences.computer.org/micropub24)** is accepted by 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024. 
   <br/>Heng Zhou, Bing Wu, Huan Cheng, Jinpeng Liu, Taoming Lei, Dan Feng, Wei Tong.
 - **[ICPP]** **[LpaqHP: A High-Performance FPGA Accelerator for LPAQ Compression](https://dl.acm.org/doi/10.1145/3673038.3673051)** is accepted by Proceedings of the 53rd International Conference on Parallel Processing (ICPP), 2024.
   <br/>Weilin Zhu, Wei Tong, Hujun Ge, Zuoxian Zhang, Mengran Zhang, Wen Zhou.
@@ -135,6 +135,8 @@ title: "Publications"
 # Journal Article
 ---
 ## **2024**
+- **[TCAD]** **[FADESIM: Enable Fast and Accurate Design Exploration for Memristive Accelerators Considering Non-idealities](https://ieeexplore.ieee.org/document/10729885)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2024. 
+  <br/>Bing Wu, Yibo Liu, Jinpeng Liu, Huan Cheng, Xueliang Wei, Wei Tong, Dan Feng.
 - **[TC]** **[Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems](https://ieeexplore.ieee.org/document/10564838)** is accepted by IEEE Transcations on Computers(TC), 2024. 
   <br/>Bo Ding, Wei Tong, Yu Hua, Zhangyu Chen, Xueliang Wei, Dan Feng.
 
