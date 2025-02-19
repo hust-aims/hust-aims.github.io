@@ -135,7 +135,7 @@ title: "Publications"
 # Journal Article
 ---
 ## **2024**
-- **[TACO]** **[COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems](https://dl.acm.org/doi/pdf/10.1145/3708541)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2024.
+- **[TACO]** **[COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems](https://dl.acm.org/doi/10.1145/3708541)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2024.
   <br/>Xueliang Wei, Dan Feng, Wei Tong, Bing Wu, Xu Jiang.
 - **[TCAD]** **[FADESIM: Enable Fast and Accurate Design Exploration for Memristive Accelerators Considering Non-idealities](https://ieeexplore.ieee.org/document/10729885)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2024. 
   <br/>Bing Wu, Yibo Liu, Jinpeng Liu, Huan Cheng, Xueliang Wei, Wei Tong, Dan Feng.
