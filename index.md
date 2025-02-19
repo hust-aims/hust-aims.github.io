@@ -192,7 +192,7 @@ Our group has published several papers on international conferences like ISCA, M
 
 
 #### **News**
-- Our paper "COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems" is accepted by TACO 2024. Congratulations to Xueliang Wei
+- Our paper "COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems" is accepted by TACO 2024. Congratulations to Xueliang Wei.
 - Our paper "FADESIM: Enable Fast and Accurate Design Exploration for Memristive Accelerators Considering Non-idealities" is accepted by TCAD 2024. Congratulations to Bing Wu.
 - Our paper "DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture" is accepted by MICRO 2024. Congratulations to Heng Zhou.
 - Our paper "LpaqHP: A High-Performance FPGA Accelerator for LPAQ Compression" is accepted by ICPP 2024. Congratulations to Weilin Zhu.
