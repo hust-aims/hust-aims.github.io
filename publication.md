@@ -6,19 +6,19 @@ title: "Publications"
 # Conference Paper
 
 ## **2024**
-- **[MICRO]** **[DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture](https://conferences.computer.org/micropub24)** is accepted by 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024. 
+- **[MICRO]** **[DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture](https://ieeexplore.ieee.org/document/10764631)** is accepted by 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024. 
   <br/>Heng Zhou, Bing Wu, Huan Cheng, Jinpeng Liu, Taoming Lei, Dan Feng, Wei Tong.
 - **[ICPP]** **[LpaqHP: A High-Performance FPGA Accelerator for LPAQ Compression](https://dl.acm.org/doi/10.1145/3673038.3673051)** is accepted by Proceedings of the 53rd International Conference on Parallel Processing (ICPP), 2024.
   <br/>Weilin Zhu, Wei Tong, Hujun Ge, Zuoxian Zhang, Mengran Zhang, Wen Zhou.
-- **[DAC]** **[STAGGER: Enabling All-in-One Subarray Sensing for Efficient Module-level Processing in Open-Bitline ReRAM](https://61dac.conference-program.com/presentation/?id=RESEARCH158&sess=sess130)** is accepted by 61st ACM/IEEE Design Automation Conference (DAC), 2024.
+- **[DAC]** **[STAGGER: Enabling All-in-One Subarray Sensing for Efficient Module-level Processing in Open-Bitline ReRAM](https://dl.acm.org/doi/10.1145/3649329.3655968)** is accepted by 61st ACM/IEEE Design Automation Conference (DAC), 2024.
   <br/>Chengning Wang, Dan Feng, Yuchong Hu, Wei Tong, Jingning Liu.
 - **[DATE]** **[A Read Latency Variation Aware Independent Read Scheme for QLC SSDs](https://ieeexplore.ieee.org/document/10546573)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024.
   <br/>Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong.
 
 ## **2023**
-- **[ICCD]** **[Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs](https://www.computer.org/csdl/proceedings-article/iccd/2023/429100a316/1T97qGKKIJW)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
+- **[ICCD]** **[Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs](https://ieeexplore.ieee.org/document/10360957)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
   <br/>Weilin Zhu, Wei Tong.
-- **[ICCD]** **[ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators](https://www.computer.org/csdl/proceedings-article/iccd/2023/429100a102/1T97lnxbqkE)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
+- **[ICCD]** **[ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators](https://ieeexplore.ieee.org/document/10361037)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
   <br/>Jinpeng Liu, Wei Tong, Bing Wu, Huan Cheng, Chengning Wang.
 - **[ICCD]** **[LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs](https://ieeexplore.ieee.org/document/10360942)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
   <br/>Biyong Liu, Yuan Xia, Xueliang Wei, Wei Tong.
@@ -30,7 +30,7 @@ title: "Publications"
 ## **2022**
 - **[ICCD]** **[RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems](https://ieeexplore.ieee.org/document/9978282)** is accepted by IEEE 40th International Conference on Computer Design (ICCD), 2022. 
   <br/>Bo Ding, Wei Tong, Yu Hua, Zhangyu Chen, Xueliang Wei, Dan Feng.
-- **[ICCD]** **[ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs](https://www.semanticscholar.org/paper/ZNSKV%3A-Reducing-Data-Migration-in-LSMT-Based-KV-on-Wu-Liu/a53821d3d2dc64d4b3f0b7499d7f14d2f8ae547d)** is accepted by IEEE 40th International Conference on Computer Design (ICCD), 2022. 
+- **[ICCD]** **[ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs](https://ieeexplore.ieee.org/document/9978499)** is accepted by IEEE 40th International Conference on Computer Design (ICCD), 2022. 
   <br/>Denghui Wu, Biyong Liu, Wei Zhao, Wei Tong.
 
 ## **2021**
@@ -135,6 +135,8 @@ title: "Publications"
 # Journal Article
 ---
 ## **2024**
+- **[TACO]** **[COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems](https://dl.acm.org/doi/pdf/10.1145/3708541)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2024.
+  <br/>Xueliang Wei, Dan Feng, Wei Tong, Bing Wu, Xu Jiang.
 - **[TCAD]** **[FADESIM: Enable Fast and Accurate Design Exploration for Memristive Accelerators Considering Non-idealities](https://ieeexplore.ieee.org/document/10729885)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2024. 
   <br/>Bing Wu, Yibo Liu, Jinpeng Liu, Huan Cheng, Xueliang Wei, Wei Tong, Dan Feng.
 - **[TC]** **[Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems](https://ieeexplore.ieee.org/document/10564838)** is accepted by IEEE Transcations on Computers(TC), 2024. 
