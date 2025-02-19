@@ -153,7 +153,7 @@ title: "Publications"
   <br/>Wei Zhao, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Wei Tong, Dan Feng, Jingning Liu.
 - **[FGCS]** **[Cora: Data correlations-based storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:-FonjvnnhkoC)** is accepted by Future Generation Computer Systems(FGCS), 2022.
   <br/> Yu Chen, Wei Tong, Dan Feng, Zike Wang.
-- **[JPDC]** **[Workload-aware storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:e_rmSamDkqQC)** is accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
+- **[JPDC]** **[Workload-aware storage policies for cloud object storage](https://dl.acm.org/doi/abs/10.1016/j.future.2021.11.023)** is accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
   <br/>Yu Chen, Wei Tong, Dan Feng, Zike Wang.
 - **[JPDC]** **[Terms: Task management policies to achieve high performance for mixed workloads using surplus resources]()** is accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
   <br/>Jinyu Yu, Wei Tong, Pengze Lv, Dan Feng.
