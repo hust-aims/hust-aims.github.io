@@ -96,7 +96,7 @@ Our group has published several papers on international conferences like ISCA, M
     <!--    div#divout>(div.imgdiv>img+div.title{标题文本$})*4 +(div.dotdiv>span.dot*4)-->
     <div id="divout">
         <div class="imgdiv" style="display: block">
-            <img src="/assets/img/league_building/2021_11_autumn.png" height="80%" width="80%" alt="">
+            <img src="/assets/img/league_building/2021_autum/2021_11_autumn_43.png" height="80%" width="80%" alt="">
             <div class="title">Group Party 2021</div>
         </div>
         <div class="imgdiv">
@@ -137,10 +137,15 @@ Our group has published several papers on international conferences like ISCA, M
         </div>
         <div class="imgdiv">
             <img src="/assets/img/2024_graduate/2024-1.jpeg" height="80%" width="80%" alt="">
-            <div class="title">Graduation Party in 2024</div>
+            <div class="title">Graduation Party 2024</div>
+        </div>
+        <div class="imgdiv">
+            <img src="/assets/img/2025_graduate/1.jpeg" height="80%" width="80%" alt="">
+            <div class="title">Graduation Party 2025</div>
         </div>
         <div class="dotdiv">
             <span class="dot active"></span>
+            <span class="dot"></span>
             <span class="dot"></span>
             <span class="dot"></span>
             <span class="dot"></span>
