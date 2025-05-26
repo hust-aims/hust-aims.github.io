@@ -19,7 +19,7 @@ title: "Group Members"
                 <td>
                     <div style="text-align:center">
                         <a href="http://faculty.hust.edu.cn/dfeng/en/index.htm">Dan Feng </a>
-                        <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=g57OG4QAAAAJ">[Google Scholar]</a>
+                        <a href="https://scholar.google.com/citations?user=9dNaB5AAAAAJ&hl=zh-CN">[Google Scholar]</a>
                     </div>
                 </td>
                 <td>
@@ -40,9 +40,9 @@ title: "Group Members"
             <td>
                 <div align="center" style="text-align:center"><img src="./assets/img/member_avator/postdoc/WuBing.jpg" height="200"></div>
             </td>
-            <td>
+            <!-- <td>
                 <div align="center" style="text-align:center"><img src="./assets/img/member_avator/postdoc/WangChengning.gif" height="200"></div>
-            </td>
+            </td> -->
             <td>
                 <div align="center" style="text-align:center"><img src="./assets/img/member_avator/postdoc/WeiXueliang.jpg" height="200"></div>
             </td>
@@ -53,11 +53,11 @@ title: "Group Members"
                     <a href="https://ieeexplore.ieee.org/author/37086029868">Bing Wu</a>
                 </div>
             </td>
-            <td>
+            <!-- <td>
                 <div style="text-align:center">
                     <a href="https://ieeexplore.ieee.org/author/37086250505">Chengning Wang</a>
                 </div>
-            </td>
+            </td> -->
             <td>
                 <div style="text-align:center">
                     <a href="https://ieeexplore.ieee.org/author/37086938196">Xueliang Wei</a>
@@ -190,7 +190,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DengYao.jpg" height="200"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/WangYufei.png" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/WangYufei.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/QuYifei.JPG" height="200"></div>
@@ -210,6 +210,26 @@ title: "Group Members"
                 <td>
                     <div style="text-align:center">
                         <a href="https://github.com/quyifei23">Yifei Qu</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ChenChuan.jpg" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-SongShiyi.jpg" height="200"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Chuan Chen</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Shiyi Song</p>
                     </div>
                 </td>
             </tr>
@@ -416,6 +436,74 @@ title: "Group Members"
                     </div>
                 </td>
             </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-CuiChengshang.png" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-DongMingzhe.jpg" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-XiaoyangHu.jpg" height="200"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Chengshang Cui</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Mingzhe Dong</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Xiaoyang Hu</p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-PanEnbao.jpg" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-XuYujun.jpg" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhangNabaichuan.png" height="200"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Enbao Pan</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Yujun Xu</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Nabaichuan Zhang</p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhongYu.png" height="200"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Yu Zhong</p>
+                    </div>
+                </td>
+            </tr>
         </tbody>
 </table>
 
@@ -439,11 +527,11 @@ title: "Group Members"
 
 2020:
 
-> Jiayi Chang(Intel), Jinlong Chen(Huawei), Xianpeng Wang(Huawei), Junzhong Deng(Tencent), Mengye Peng(Alibaba), Yvtong Zhao(Huawei)
+> Jiayi Chang(Intel), Jinlong Chen(Huawei), Xianpeng Wang(Huawei), Junzhong Deng(Tencent), Mengye Peng(Alibaba), Yutong Zhao(Huawei)
 
 2019:
 
-> Yilin Li (Alibaba) , Mingshun Yang (Baidu) , Shuai Li (Electric Power of HeNan), Tian Guo(Baidu), Chengsheng Xie(Tmall), Kang Yan(Tmall), Yue jiang(Intel)
+> Yilin Li (Alibaba) , Mingshun Yang (Baidu) , Shuai Li (Electric Power of HeNan), Tian Guo(Baidu), Chengsheng Xie(Tmall), Kang Yan(Tmall), Yue Jiang(Intel)
 
 2018:
 
