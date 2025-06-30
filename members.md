@@ -73,6 +73,7 @@ title: "Group Members"
 
 <table class="memberTable" border="0" width="100%" align="center">
         <tbody>
+            <!-- 第一行开始 -->
             <tr>
                 <td>
                     <div align="center" style="text-align:center border-radius:10%"><img src="./assets/img/member_avator/2019/ZhanTianqi.JPG" height="200"></div>
@@ -101,15 +102,17 @@ title: "Group Members"
                     </div>
                 </td>
             </tr>
+            <!-- 第二行结束
+            第三行开始 -->
             <tr>
                 <td>
                     <div align="center" style="text-align:center border-radius:10%"><img src="./assets/img/member_avator/2019/19-ZhuWeilin.png" height="200"></div>
                 </td>
-                 <td>
-                    <div align="center" style="text-align:center border-radius:10%"><img src="./assets/img/member_avator/2020/20-DingBo.jpg" height="200"></div>
-                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2021/21-LiuJinpeng.jpg" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2021/21-HuangDong.png" height="200"></div>
                 </td>
             </tr>
             <tr>
@@ -120,32 +123,29 @@ title: "Group Members"
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <p>Bo Ding</p>
+                        <p>Jinpeng Liu</p>
                     </div>
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <p>Jinpeng Liu</p>
+                        <p>Dong Huang</p>
                     </div>
                 </td>
             </tr>
+            <!-- 第三行结束
+            第四行开始 -->
             <tr>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2021/21-HuangDong.png" height="200"></div>
-                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiuYibo.jpg" height="200"></div>
                 </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXu.jpg" height="200"></div>
+                </td>
             </tr>
             <tr>
-                <td>
-                    <div style="text-align:center">
-                        <p>Dong Huang</p>
-                    </div>
-                </td>
                 <td>
                     <div style="text-align:center">
                         <a href="https://github.com/NickLee2050">Shuhan Li</a>
@@ -156,24 +156,26 @@ title: "Group Members"
                         <p>Yibo Liu</p>
                     </div>
                 </td>
-            </tr>
-            <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXu.jpg" height="200"></div>
+                    <div style="text-align:center">
+                        <a href="https://gitee.com/twelvecat">Xu Jiang</a>
+                    </div>
                 </td>
+            </tr>
+            <!-- 第四行结束
+            第五行开始 -->
+            <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LeiTaoming.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LiZezheng.png" height="200"></div>
                 </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DengYao.jpg" height="200"></div>
+                </td>
             </tr>
             <tr>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://gitee.com/twelvecat">Xu Jiang</a>
-                    </div>
-                </td>
                 <td>
                     <div style="text-align:center">
                         <a href="https://github.com/Bodensteins">Taoming Lei</a>
@@ -184,24 +186,26 @@ title: "Group Members"
                         <p>Zezheng Li</p>
                     </div>
                 </td>
-            </tr>
-            <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DengYao.jpg" height="200"></div>
+                    <div style="text-align:center">
+                        <p>Yao Deng</p>
+                    </div>
                 </td>
+            </tr>
+            <!-- 第五行结束
+            第六行开始 -->
+            <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/WangYufei.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/QuYifei.JPG" height="200"></div>
                 </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ChenChuan.jpg" height="200"></div>
+                </td>
             </tr>
             <tr>
-                <td>
-                    <div style="text-align:center">
-                        <p>Yao Deng</p>
-                    </div>
-                </td>
                 <td>
                     <div style="text-align:center">
                         <a href="https://yufeiwang0821.github.io">Yufei Wang</a>
@@ -212,21 +216,20 @@ title: "Group Members"
                         <a href="https://github.com/quyifei23">Yifei Qu</a>
                     </div>
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ChenChuan.jpg" height="200"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-SongShiyi.jpg" height="200"></div>
-                </td>
-            </tr>
-            <tr>
                 <td>
                     <div style="text-align:center">
                         <p>Chuan Chen</p>
                     </div>
                 </td>
+            </tr>
+            <!-- 第六行结束
+            第七行开始 -->
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-SongShiyi.jpg" height="200"></div>
+                </td>
+            </tr>
+            <tr>
                 <td>
                     <div style="text-align:center">
                         <p>Shiyi Song</p>
@@ -237,6 +240,10 @@ title: "Group Members"
 </table>
 
 ### Graduated
+
+2025:
+
+> Bo Ding(Huawei)
 
 2023:
 
@@ -268,74 +275,24 @@ title: "Group Members"
 
 <table class="memberTable" border="0" width="100%">
         <tbody>
+            <!-- 第一行开始 -->
             <tr>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LuoHongjie.jpg" height="200"></div>
-                </td>
-                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-WanRun.jpg" height="200"></div>
-                </td>
-                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-QinZhongyu.jpg" height="200"></div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <p>Hongjie Luo</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Run Wan</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://github.com/qzylalala">Zhongyu Qin</a>
-                    </div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-XiaYuan.jpg" height="200"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-ZhangMengran.png" height="200"></div>
-                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DongYuqi.png" height="200"></div>
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <a href ="https://github.com/JINGE-ui">Yuan Xia</a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Mengran Zhang</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://jihulab.com/DYQ">Yuqi Dong</a>
-                    </div>
-                </td>
-            </tr>
-            <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-HuZhiyang.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LiLin.jpg" height="200"></div>
                 </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LuHongye.jpg" height="200"></div>
-                </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://jihulab.com/DYQ">Yuqi Dong</a>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <p>Zhiyang Hu</p>
@@ -346,24 +303,26 @@ title: "Group Members"
                         <a href="https://github.com/RatRat0">Lin Li</a>
                     </div>
                 </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://gitlab.com/raglarose">Hongye Lu</a>
-                    </div>
-                </td>
             </tr>
+            <!-- 第一行结束
+            第二行开始 -->
             <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LuHongye.jpg" height="200"></div>
+                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-ZhangHongtao.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-ZouYige.jpg" height="200"></div>
                 </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/CuiZetao.jpg" height="200"></div>
-                </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://gitlab.com/raglarose">Hongye Lu</a>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <p>Hongtao Zhang</p>
@@ -374,24 +333,26 @@ title: "Group Members"
                         <p>Yige Zou</p>
                     </div>
                 </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Zetao Cui</p>
-                    </div>
-                </td>
             </tr>
+            <!-- 第二行结束
+            第三行开始 -->
             <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/CuiZetao.jpg" height="200"></div>
+                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/DaHaoming.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/DongYuli.jpg" height="200"></div>
                 </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/HuangKeyu.jpg" height="200"></div>
-                </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Zetao Cui</p>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <a href="https://github.com/8u9mak3r">Haoming Da</a>
@@ -402,24 +363,26 @@ title: "Group Members"
                         <a href="https://github.com/antsuge">Yuli Dong</a>
                     </div>
                 </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Keyu Huang</p>
-                    </div>
-                </td>
             </tr>
+            <!-- 第三行结束
+            第四行开始 -->
             <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/HuangKeyu.jpg" height="200"></div>
+                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/JinShengyu.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/WeiPanyue.jpg" height="200"></div>
                 </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/ZhaoYuhang.jpg" height="200"></div>
-                </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Keyu Huang</p>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <a href="https://github.com/123456789a12">Shengyu Jin</a>
@@ -430,24 +393,26 @@ title: "Group Members"
                         <a href="https://github.com/Weipp7">Panyue Wei</a>
                     </div>
                 </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://github.com/spacemaninhust">Yuhang Zhao</a>
-                    </div>
-                </td>
             </tr>
+            <!-- 第四行结束
+            第五行开始 -->
             <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/ZhaoYuhang.jpg" height="200"></div>
+                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-CuiChengshang.png" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-DongMingzhe.jpg" height="200"></div>
                 </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-XiaoyangHu.jpg" height="200"></div>
-                </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://github.com/spacemaninhust">Yuhang Zhao</a>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <p>Chengshang Cui</p>
@@ -458,24 +423,26 @@ title: "Group Members"
                         <p>Mingzhe Dong</p>
                     </div>
                 </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Xiaoyang Hu</p>
-                    </div>
-                </td>
             </tr>
+            <!-- 第五行结束
+            第六行开始 -->
             <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-XiaoyangHu.jpg" height="200"></div>
+                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-PanEnbao.jpg" height="200"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-XuYujun.jpg" height="200"></div>
                 </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhangNabaichuan.png" height="200"></div>
-                </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Xiaoyang Hu</p>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <p>Enbao Pan</p>
@@ -486,13 +453,13 @@ title: "Group Members"
                         <p>Yujun Xu</p>
                     </div>
                 </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Nabaichuan Zhang</p>
-                    </div>
-                </td>
             </tr>
+            <!-- 第六行结束
+            第七行开始 -->
             <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhangNabaichuan.png" height="200"></div>
+                </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhongYu.png" height="200"></div>
                 </td>
@@ -500,14 +467,23 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
+                        <p>Nabaichuan Zhang</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
                         <p>Yu Zhong</p>
                     </div>
                 </td>
             </tr>
+            <!-- 第七行结束 -->
         </tbody>
 </table>
 
 ### Graduated
+
+2025：
+> Hongjie Luo(Huawei), Zhongyu Qin(T-Head Semiconductor), Run Wan, Yuan Xia(Alibaba), Hao Zhang(Tencent), Mengran Zhang
 
 2024：
 

@@ -40,3 +40,7 @@ title: "Resources"
 ## 3. SSDSim
 - SSD仿真
 - http://stlab.wnlo.hust.edu.cn/info/1092/1488.htm
+
+## 4. FADESim
+- 忆阻器存算一体仿真器
+- https://github.com/SSS-PiM/FADESim
