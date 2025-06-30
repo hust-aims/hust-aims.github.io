@@ -483,7 +483,7 @@ title: "Group Members"
 ### Graduated
 
 2025：
-> Hongjie Luo(Huawei), Zhongyu Qin(T-Head Semiconductor), Run Wan, Yuan Xia(Alibaba), Hao Zhang(Tencent), Mengran Zhang
+> Hongjie Luo(Huawei), Zhongyu Qin(T-Head Semiconductor), Run Wan(Tencent), Yuan Xia(Alibaba), Hao Zhang(Tencent), Mengran Zhang
 
 2024：
 
