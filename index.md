@@ -7,6 +7,14 @@ url: /
 #### **Welcome to AIMS Group!**
 AIMS group belongs to [Data Storage and Application Lab](http://storage.hust.edu.cn/). AIMS refers to Advanced Intelligent Memory Systems. We aim at building high performance and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid-state drive, high performance compression, cloud object store, and emerging NVMs).
 
+The research group has long been dedicated to cutting-edge research on advanced intelligent storage systems, with a focus on high-performance and energy-efficient storage solutions based on emerging memory technologies and innovative architectures. The group’s primary research areas include:
+
+1. **Full-stack Processing-in-Memory (PiM) Technologies**: Covering the entire stack from device characteristics and chip architectures to system-level optimizations, with an emphasis on breakthroughs in PiM chip design, dedicated compiler toolchains, and compensation for non-idealities.
+
+2. **Advanced Memory Systems**: Investigating high-performance architectures for emerging non-volatile memory (NVM), security-enhancing mechanisms, and technologies for large-capacity storage.
+
+3. **Intelligent Storage Devices**: Exploring co-optimization of hardware architectures and system software for computational storage devices.
+
 Our group has published several papers on international conferences like ISCA, MICRO, DAC, DATE, ICCAD, ICPP, MSST, ICCD, LCTES, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE T-ED, ACM TACO, ACM TODAES, JSA, etc.
 
 
