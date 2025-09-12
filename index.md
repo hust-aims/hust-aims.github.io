@@ -210,6 +210,11 @@ Our group has published several papers on international conferences like ISCA, M
 
 
 #### **News**
+- Our paper "MPFS: A Scalable User-Space Persistent Memory File System for Multiple Processes" is accepted by DATE 2025. Congratulations to Bo Ding.
+- Our paper "CMD: A Cache-Assisted GPU Memory Deduplication Architecture" is accepted by TCAD 2025. Congratulations to Wei Zhao.
+- Our paper "An Efficient Independent Read Scheme for Contemporary QLC SSDs" is accepted by TCAD 2025. Congratulations to Dong Huang.
+- Our paper "SEED: Speculative Security Metadata Updates for Low-Latency Secure Memory" is accepted by TACO 2024. Congratulations to Xueliang Wei.
+- Our paper "SAQO: Empowering Computational Storage Device for Efficient SQL Query Acceleration" is accepted by NAS 2024. Congratulations to Yao Deng.
 - Our paper "COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems" is accepted by TACO 2024. Congratulations to Xueliang Wei.
 - Our paper "FADESIM: Enable Fast and Accurate Design Exploration for Memristive Accelerators Considering Non-idealities" is accepted by TCAD 2024. Congratulations to Bing Wu.
 - Our paper "DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture" is accepted by MICRO 2024. Congratulations to Heng Zhou.

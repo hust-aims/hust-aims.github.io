@@ -5,6 +5,10 @@ title: "Publications"
 
 # Conference Paper
 
+## **2025**
+- **[DATE]** **[MPFS: A Scalable User-Space Persistent Memory File System for Multiple Processes](https://ieeexplore.ieee.org/document/10992994)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025.
+  <br/>Bo Ding, Wei Tong, Yu Hua, Yuchong Hu, Dong Huang, Qiankun Liu, Zhangyu Chen, Xueliang Wei, Dan Feng.
+
 ## **2024**
 - **[MICRO]** **[DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture](https://ieeexplore.ieee.org/document/10764631)** is accepted by 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024. 
   <br/>Heng Zhou, Bing Wu, Huan Cheng, Jinpeng Liu, Taoming Lei, Dan Feng, Wei Tong.
@@ -14,6 +18,8 @@ title: "Publications"
   <br/>Chengning Wang, Dan Feng, Yuchong Hu, Wei Tong, Jingning Liu.
 - **[DATE]** **[A Read Latency Variation Aware Independent Read Scheme for QLC SSDs](https://ieeexplore.ieee.org/document/10546573)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024.
   <br/>Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong.
+- **[NAS]** **[SAQO: Empowering Computational Storage Device for Efficient SQL Query Acceleration](https://ieeexplore.ieee.org/document/10781372)** is accepted by International Conference on Networking, Architecture and Storage (NAS), 2024.
+  <br/>Yao Deng, Pengze Lv, Mengran Zhang, Wei Tong.
 
 ## **2023**
 - **[ICCD]** **[Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs](https://ieeexplore.ieee.org/document/10360957)** is accepted by IEEE 41st International Conference on Computer Design (ICCD), 2023.
@@ -134,8 +140,17 @@ title: "Publications"
 
 # Journal Article
 ---
+## **2025**
+- **[TCAD]** **[CMD: A Cache-Assisted GPU Memory Deduplication Architecture]()** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2025.
+  <br/>Wei Zhao, Dan Feng, Wei Tong, Xueliang Wei, Bing Wu.
+- **[TCAD]** **[An Efficient Independent Read Scheme for Contemporary QLC SSDs](https://ieeexplore.ieee.org/abstract/document/10979979)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2025.
+  <br/>Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong, Shu Li, Feng Zhu, Maojun Yuan.
+
+
 ## **2024**
 - **[TACO]** **[COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems](https://dl.acm.org/doi/10.1145/3708541)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2024.
+  <br/>Xueliang Wei, Dan Feng, Wei Tong, Bing Wu, Xu Jiang.
+- **[TACO]** **[SEED: Speculative Security Metadata Updates for Low-Latency Secure Memory](https://dl.acm.org/doi/10.1145/3722111)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2024.
   <br/>Xueliang Wei, Dan Feng, Wei Tong, Bing Wu, Xu Jiang.
 - **[TCAD]** **[FADESIM: Enable Fast and Accurate Design Exploration for Memristive Accelerators Considering Non-idealities](https://ieeexplore.ieee.org/document/10729885)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2024. 
   <br/>Bing Wu, Yibo Liu, Jinpeng Liu, Huan Cheng, Xueliang Wei, Wei Tong, Dan Feng.
