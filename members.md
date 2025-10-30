@@ -226,10 +226,18 @@ title: "Group Members"
             第七行开始 -->
             <tr>
                 <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-JiangYuhuan.png" height="200"></div>
+                </td>
+                <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-SongShiyi.jpg" height="200"></div>
                 </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Yuhuan Jiang</p>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <p>Shiyi Song</p>
