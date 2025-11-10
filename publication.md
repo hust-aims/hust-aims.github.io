@@ -145,7 +145,10 @@ title: "Publications"
   <br/>Wei Zhao, Dan Feng, Wei Tong, Xueliang Wei, Bing Wu.
 - **[TCAD]** **[An Efficient Independent Read Scheme for Contemporary QLC SSDs](https://ieeexplore.ieee.org/abstract/document/10979979)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2025.
   <br/>Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong, Shu Li, Feng Zhu, Maojun Yuan.
-
+- **[TACO]** **[ICON-NIV: A Generalized Method for Mitigating the Impacts of IR Drop and Nonlinear I-V Effect in eNVM-based Accelerators]()** is accepted by ACM Transactions on Architecture and Code Optimization (TACO), 2025.
+  <br/>Jinpeng Liu, Wei Tong, Bing Wu, Huan Cheng, Heng Zhou, Xueliang Wei, Dan Feng.
+- **[TACO]** **[RBC: A Randomness-Resistant Block-Grained Compaction]()** is accepted by ACM Transactions on Architecture and Code Optimization (TACO), 2025.
+  <br/>Tianqi Zhan, Dan Feng, Shu Li, Zhengyong Wang, and Wei Tong.
 
 ## **2024**
 - **[TACO]** **[COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems](https://dl.acm.org/doi/10.1145/3708541)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2024.
