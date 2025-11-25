@@ -210,8 +210,8 @@ Our group has published several papers on international conferences like ISCA, M
 
 
 #### **News**
-- Our paper "ICON-NIV: A Generalized Method for Mitigating the Impacts of IR Drop and Nonlinear I-V Effect in eNVM-based Accelerators" is accepted by DATE 2025. Congratulations to Jinpeng Liu.
-- Our paper "RBC: A Randomness-Resistant Block-Grained Compaction" is accepted by DATE 2025. Congratulations to Tianqi Zhan.
+- Our paper "ICON-NIV: A Generalized Method for Mitigating the Impacts of IR Drop and Nonlinear I-V Effect in eNVM-based Accelerators" is accepted by TACO 2025. Congratulations to Jinpeng Liu.
+- Our paper "RBC: A Randomness-Resistant Block-Grained Compaction" is accepted by TACO 2025. Congratulations to Tianqi Zhan.
 - Our paper "MPFS: A Scalable User-Space Persistent Memory File System for Multiple Processes" is accepted by DATE 2025. Congratulations to Bo Ding.
 - Our paper "CMD: A Cache-Assisted GPU Memory Deduplication Architecture" is accepted by TCAD 2025. Congratulations to Wei Zhao.
 - Our paper "An Efficient Independent Read Scheme for Contemporary QLC SSDs" is accepted by TCAD 2025. Congratulations to Dong Huang.
