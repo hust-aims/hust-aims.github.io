@@ -4,10 +4,21 @@ title: "Publications"
 ---
 
 # Conference Paper
+## **2026**
+- **[HPCA]** **[Secret Caching Sauce for High-Performance Secure Memory]()** is accepted by the 32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+  <br/>Xu Jiang, Xueliang Wei, Yifei Qu, Dan Feng, Yuchong Hu, Yulai Xie, Wei Tong.
+- **[DATE]** **[An IR drop-robust Mapping Method for Reliable Memristive Accelerators]()** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2026.
+  <br/>Jinpeng Liu, Shiyi Song, Bing Wu, Huan Cheng, Heng Zhou, Xueliang Wei, Wei Tong and Dan Feng.
+- **[DATE]** **[Data Distribution-Aware Analog/Digital Conversion Strategy for Energy-Efficient Memristive In-Situ Accelerators]()** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2026.
+  <br/>Taoming Lei, Heng Zhou, Bing Wu, Wei Tong and Dan Feng.
+- **[DCC]** **[LPAQMP: Multilayer Parallel Design for LPAQ Compression]()** is accepted by Data Compression Conference (DCC), 2026.
+  <br/>Panyue Wei, Weilin Zhu, Yifei Qu, Wei Tong.
 
 ## **2025**
 - **[DATE]** **[MPFS: A Scalable User-Space Persistent Memory File System for Multiple Processes](https://ieeexplore.ieee.org/document/10992994)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025.
   <br/>Bo Ding, Wei Tong, Yu Hua, Yuchong Hu, Dong Huang, Qiankun Liu, Zhangyu Chen, Xueliang Wei, Dan Feng.
+- **[DAC]** **[SuperCopyback: Revisiting Copyback on Modern High-Performance NAND Flash-based SSDs](https://ieeexplore.ieee.org/document/11133348)** is accepted by ACM/IEEE Design Automation Conference (DAC), 2025.
+  <br/>Dong Huang, Bo Ding, Wei Tong, Dan Feng.
 
 ## **2024**
 - **[MICRO]** **[DRCTL: A Disorder-Resistant Computation Translation Layer Enhancing the Lifetime and Performance of Memristive CIM Architecture](https://ieeexplore.ieee.org/document/10764631)** is accepted by 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024. 
@@ -141,20 +152,20 @@ title: "Publications"
 # Journal Article
 ---
 ## **2025**
-- **[TCAD]** **[CMD: A Cache-Assisted GPU Memory Deduplication Architecture]()** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2025.
+- **[TCAD]** **[CMD: A Cache-Assisted GPU Memory Deduplication Architecture](https://ieeexplore.ieee.org/document/10930882)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2025.
   <br/>Wei Zhao, Dan Feng, Wei Tong, Xueliang Wei, Bing Wu.
 - **[TCAD]** **[An Efficient Independent Read Scheme for Contemporary QLC SSDs](https://ieeexplore.ieee.org/abstract/document/10979979)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2025.
   <br/>Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong, Shu Li, Feng Zhu, Maojun Yuan.
 - **[TACO]** **[ICON-NIV: A Generalized Method for Mitigating the Impacts of IR Drop and Nonlinear I-V Effect in eNVM-based Accelerators]()** is accepted by ACM Transactions on Architecture and Code Optimization (TACO), 2025.
   <br/>Jinpeng Liu, Wei Tong, Bing Wu, Huan Cheng, Heng Zhou, Xueliang Wei, Dan Feng.
-- **[TACO]** **[RBC: A Randomness-Resistant Block-Grained Compaction]()** is accepted by ACM Transactions on Architecture and Code Optimization (TACO), 2025.
+- **[TACO]** **[RBC: A Randomness-Resistant Block-Grained Compaction](https://dl.acm.org/doi/10.1145/3764588)** is accepted by ACM Transactions on Architecture and Code Optimization (TACO), 2025.
   <br/>Tianqi Zhan, Dan Feng, Shu Li, Zhengyong Wang, and Wei Tong.
+- **[TACO]** **[COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems](https://dl.acm.org/doi/10.1145/3708541)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2025.
+  <br/>Xueliang Wei, Dan Feng, Wei Tong, Bing Wu, Xu Jiang.
+- **[TACO]** **[SEED: Speculative Security Metadata Updates for Low-Latency Secure Memory](https://dl.acm.org/doi/10.1145/3722111)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2025.
+  <br/>Xueliang Wei, Dan Feng, Wei Tong, Bing Wu, Xu Jiang.
 
 ## **2024**
-- **[TACO]** **[COVER: Alleviating Crash-Consistency Error Amplification in Secure Persistent Memory Systems](https://dl.acm.org/doi/10.1145/3708541)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2024.
-  <br/>Xueliang Wei, Dan Feng, Wei Tong, Bing Wu, Xu Jiang.
-- **[TACO]** **[SEED: Speculative Security Metadata Updates for Low-Latency Secure Memory](https://dl.acm.org/doi/10.1145/3722111)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2024.
-  <br/>Xueliang Wei, Dan Feng, Wei Tong, Bing Wu, Xu Jiang.
 - **[TCAD]** **[FADESIM: Enable Fast and Accurate Design Exploration for Memristive Accelerators Considering Non-idealities](https://ieeexplore.ieee.org/document/10729885)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2024. 
   <br/>Bing Wu, Yibo Liu, Jinpeng Liu, Huan Cheng, Xueliang Wei, Wei Tong, Dan Feng.
 - **[TC]** **[Enabling Reliable Memory-Mapped I/O with Auto-snapshot for Persistent Memory Systems](https://ieeexplore.ieee.org/document/10564838)** is accepted by IEEE Transcations on Computers(TC), 2024. 

@@ -210,6 +210,9 @@ Our group has published several papers on international conferences like ISCA, M
 
 
 #### **News**
+- Our paper "Secret Caching Sauce for High-Performance Secure Memory" is accepted by HPCA 2026. Congratulations to Xu Jiang, Xueliang Wei and Yifei Qu.
+- Our paper "LPAQMP: Multilayer Parallel Design for LPAQ Compression" is accepted by DCC 2026. Congratulations to Panyue Wei.
+- Our paper "Data Distribution-Aware Analog/Digital Conversion Strategy for Energy-Efficient Memristive In-Situ Accelerators" is accepted by DATE 2026. Congratulations to Taoming Lei.
 - Our paper "An IR drop-robust Mapping Method for Reliable Memristive Accelerators" is accepted by DATE 2026. Congratulations to Jinpeng Liu.
 - Our paper "ICON-NIV: A Generalized Method for Mitigating the Impacts of IR Drop and Nonlinear I-V Effect in eNVM-based Accelerators" is accepted by TACO 2025. Congratulations to Jinpeng Liu.
 - Our paper "RBC: A Randomness-Resistant Block-Grained Compaction" is accepted by TACO 2025. Congratulations to Tianqi Zhan.
