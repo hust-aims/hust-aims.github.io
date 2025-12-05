@@ -6,7 +6,7 @@ title: "Publications"
 # Conference Paper
 ## **2026**
 - **[HPCA]** **[Secret Caching Sauce for High-Performance Secure Memory]()** is accepted by the 32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
-  <br/>Xu Jiang, Xueliang Wei, Yifei Qu, Dan Feng, Yuchong Hu, Yulai Xie, Wei Tong.
+  <br/>Xu Jiang, Xueliang Wei, Yifei Qu, Dan Feng, Yulai Xie, Wei Tong.
 - **[DATE]** **[An IR drop-robust Mapping Method for Reliable Memristive Accelerators]()** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2026.
   <br/>Jinpeng Liu, Shiyi Song, Bing Wu, Huan Cheng, Heng Zhou, Xueliang Wei, Wei Tong and Dan Feng.
 - **[DATE]** **[Data Distribution-Aware Analog/Digital Conversion Strategy for Energy-Efficient Memristive In-Situ Accelerators]()** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2026.
