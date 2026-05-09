@@ -469,7 +469,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhangNabaichuan.png" height="200"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhongYu.png" height="200"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhongYu.jpg" height="200"></div>
                 </td>
             </tr>
             <tr>
