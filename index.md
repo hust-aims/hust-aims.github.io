@@ -11,11 +11,11 @@ The research group has long been dedicated to cutting-edge research on advanced 
 
 1. **Full-stack Processing-in-Memory (PiM) Technologies**: Covering the entire stack from device characteristics and chip architectures to system-level optimizations, with an emphasis on breakthroughs in PiM chip design, dedicated compiler toolchains, and compensation for non-idealities.
 
-2. **Advanced Memory Systems**: Investigating high-performance architectures for emerging non-volatile memory (NVM), security-enhancing mechanisms, and technologies for large-capacity storage.
+2. **Advanced Memory Systems**: Investigating Machine Learning Systems (MLSys) with a memory‑storage synergy, advancing systems software and architecture to accelerate AI inference including multimodal scenarios, as well as resilient GPU computing and heterogeneous memory‑storage hierarchies.
 
 3. **Intelligent Storage Devices**: Exploring co-optimization of hardware architectures and system software for computational storage devices.
 
-Our group has published several papers on international conferences like ISCA, MICRO, DAC, DATE, ICCAD, ICPP, MSST, ICCD, LCTES, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE T-ED, ACM TACO, ACM TODAES, JSA, etc.
+Our group has published several papers on international conferences like HPCA, ISCA, MICRO, DAC, DATE, ICCAD, ICPP, MSST, ICCD, LCTES, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE T-ED, ACM TACO, ACM TODAES, JSA, etc.
 
 
 <head>
@@ -138,6 +138,10 @@ Our group has published several papers on international conferences like ISCA, M
         <div class="imgdiv">
             <img src="/assets/img/DAC24.jpg" height="80%" width="80%" alt="">
             <div class="title">DAC 2024</div>
+        </div>
+        <div class="imgdiv">
+            <img src="/assets/img/HPCA26.jpg" height="80%" width="80%" alt="">
+            <div class="title">HPCA 2026</div>
         </div>
         <div class="imgdiv">
             <img src="/assets/img/2021.jpg" height="80%" width="80%" alt="">
