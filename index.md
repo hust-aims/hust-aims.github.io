@@ -116,6 +116,14 @@ Our group has published several papers on international conferences like HPCA, I
             <div class="title">OlympusMons Award</div>
         </div>
         <div class="imgdiv">
+            <img src="/assets/img/Civet2040.jpg" height="80%" width="80%" alt="">
+            <div class="title">Civet 2040 Award</div>
+        </div>
+        <div class="imgdiv">
+            <img src="/assets/img/Postdoctoral_Competition.jpg" height="80%" width="80%" alt="">
+            <div class="title">Postdoctoral Competition</div>
+        </div>
+        <div class="imgdiv">
             <img src="/assets/img/ICCD19.jpg" height="80%" width="80%" alt="">
             <div class="title">ICCD 2019</div>
         </div>
