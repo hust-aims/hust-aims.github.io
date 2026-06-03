@@ -128,10 +128,6 @@ Our group has published several papers on international conferences like HPCA, I
             <div class="title">ICCD 2019</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/DATE19.jpg" height="80%" width="80%" alt="">
-            <div class="title">DATE 2019</div>
-        </div>
-        <div class="imgdiv">
             <img src="/assets/img/DATE23.jpg" height="80%" width="80%" alt="">
             <div class="title">DATE 2023</div>
         </div>
@@ -146,10 +142,6 @@ Our group has published several papers on international conferences like HPCA, I
         <div class="imgdiv">
             <img src="/assets/img/HPCA26.jpg" height="80%" width="80%" alt="">
             <div class="title">HPCA 2026</div>
-        </div>
-        <div class="imgdiv">
-            <img src="/assets/img/2021.jpg" height="80%" width="80%" alt="">
-            <div class="title">Graduates in 2021</div>
         </div>
         <div class="imgdiv">
             <img src="/assets/img/2024_graduate/2024-1.jpeg" height="80%" width="80%" alt="">
