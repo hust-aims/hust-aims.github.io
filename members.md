@@ -38,13 +38,13 @@ title: "Group Members"
     <tbody>
         <tr>
             <td>
-                <div align="center" style="text-align:center"><img src="./assets/img/member_avator/postdoc/WuBing.jpg" height="200"></div>
+                <div align="center" style="text-align:center"><img src="./assets/img/member_avator/postdoc/WuBing.jpg" height="300" width="225"></div>
             </td>
             <!-- <td>
                 <div align="center" style="text-align:center"><img src="./assets/img/member_avator/postdoc/WangChengning.gif" height="200"></div>
             </td> -->
             <td>
-                <div align="center" style="text-align:center"><img src="./assets/img/member_avator/postdoc/WeiXueliang.jpg" height="200"></div>
+                <div align="center" style="text-align:center"><img src="./assets/img/member_avator/postdoc/WeiXueliang.jpg" height="300" width="225"></div>
             </td>
         </tr>
         <tr>
