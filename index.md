@@ -108,8 +108,8 @@ Our group has published several papers on international conferences like HPCA, I
             <div class="title">Group Party 2021</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/league_building/2020_group_party.jpg" height="80%" width="80%" alt="">
-            <div class="title">Group Party 2020</div>
+            <img src="/assets/img/league_building/2026_spring/2026_1.jpg" height="80%" width="80%" alt="">
+            <div class="title">Group Party 2026</div>
         </div>
         <div class="imgdiv">
             <img src="/assets/img/award.png" height="80%" width="80%" alt="">
@@ -124,9 +124,13 @@ Our group has published several papers on international conferences like HPCA, I
             <div class="title">Postdoctoral Competition</div>
         </div>
         <div class="imgdiv">
+            <img src="/assets/img/OPTOELECTRONIC_EXPOSITION2026.jpg" height="80%" width="80%" alt="">
+            <div class="title">OPTOELECTRONIC EXPOSITION 2026</div>
+        </div>
+        <!--<div class="imgdiv">
             <img src="/assets/img/ICCD19.jpg" height="80%" width="80%" alt="">
             <div class="title">ICCD 2019</div>
-        </div>
+        </div>-->
         <div class="imgdiv">
             <img src="/assets/img/DATE23.jpg" height="80%" width="80%" alt="">
             <div class="title">DATE 2023</div>
