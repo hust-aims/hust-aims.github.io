@@ -214,6 +214,9 @@ Our group has published several papers on international conferences like HPCA, I
 
 
 #### **News**
+- Our “AI Processing-in-Memory Hardware–Software Co-Designed Processing System” won the AI Hardware Technology Innovation Gold Award at “Civet 2040”. Congratulations to Bing Wu and Yufei Wang.
+- Our “AI Processing-in-Memory Hardware–Software Co-Designed Processing System” won the Silver Award at the 3rd National Postdoctoral Innovation and Entrepreneurship Competition. Congratulations to Bing Wu.
+- Our paper "pTree: Building Efficient B+-Tree on Non-volatile Memory with Processing-in-memory" is accepted by TC 2026. Congratulations to Yibo Liu.
 - Our paper "Secret Caching Sauce for High-Performance Secure Memory" is accepted by HPCA 2026. Congratulations to Xu Jiang, Xueliang Wei and Yifei Qu.
 - Our paper "LPAQMP: Multilayer Parallel Design for LPAQ Compression" is accepted by DCC 2026. Congratulations to Panyue Wei.
 - Our paper "Data Distribution-Aware Analog/Digital Conversion Strategy for Energy-Efficient Memristive In-Situ Accelerators" is accepted by DATE 2026. Congratulations to Taoming Lei.
