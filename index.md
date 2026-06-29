@@ -107,7 +107,7 @@ Our group has published several papers on international conferences like HPCA, I
             <img src="/assets/img/league_building/2021_autum/2021_11_autumn_43.png" height="80%" width="80%" alt="">
             <div class="title">Group Party 2021</div>
         </div>-->
-        <div class="imgdiv">
+        <div class="imgdiv" style="display: block">
             <img src="/assets/img/league_building/2026_spring/2026_1.jpg" height="80%" width="80%" alt="">
             <div class="title">Group Party 2026</div>
         </div>
