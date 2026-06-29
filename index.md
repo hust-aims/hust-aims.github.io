@@ -158,9 +158,10 @@ Our group has published several papers on international conferences like HPCA, I
         <div class="imgdiv">
             <img src="/assets/img/2025_graduate/4.jpeg" height="80%" width="80%" alt="">
             <div class="title">Graduates in 2025</div>
+        </div>
         <div class="imgdiv">
             <img src="/assets/img/2026_graduate/1.jpg" height="80%" width="80%" alt="">
-            <div class="title">Graduates in 2025</div>
+            <div class="title">Graduates in 2026</div>
         </div>
         <div class="dotdiv">
             <span class="dot active"></span>
