@@ -286,66 +286,6 @@ title: "Group Members"
             <!-- 第一行开始 -->
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-DongYuqi.png" height="200"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-HuZhiyang.jpg" height="200"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LiLin.jpg" height="200"></div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://jihulab.com/DYQ">Yuqi Dong</a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Zhiyang Hu</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://github.com/RatRat0">Lin Li</a>
-                    </div>
-                </td>
-            </tr>
-            <!-- 第一行结束
-            第二行开始 -->
-            <tr>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-LuHongye.jpg" height="200"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-ZhangHongtao.jpg" height="200"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2023/23-ZouYige.jpg" height="200"></div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://gitlab.com/raglarose">Hongye Lu</a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Hongtao Zhang</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Yige Zou</p>
-                    </div>
-                </td>
-            </tr>
-            <!-- 第二行结束
-            第三行开始 -->
-            <tr>
-                <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/CuiZetao.jpg" height="200"></div>
                 </td>
                 <td>
@@ -372,8 +312,8 @@ title: "Group Members"
                     </div>
                 </td>
             </tr>
-            <!-- 第三行结束
-            第四行开始 -->
+            <!-- 第一行结束
+            第二行开始 -->
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/HuangKeyu.jpg" height="200"></div>
@@ -402,8 +342,8 @@ title: "Group Members"
                     </div>
                 </td>
             </tr>
-            <!-- 第四行结束
-            第五行开始 -->
+            <!-- 第二行结束
+            第三行开始 -->
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2024/ZhaoYuhang.jpg" height="200"></div>
@@ -432,8 +372,8 @@ title: "Group Members"
                     </div>
                 </td>
             </tr>
-            <!-- 第五行结束
-            第六行开始 -->
+            <!-- 第三行结束
+            第四行开始 -->
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-XiaoyangHu.jpg" height="200"></div>
@@ -462,8 +402,8 @@ title: "Group Members"
                     </div>
                 </td>
             </tr>
-            <!-- 第六行结束
-            第七行开始 -->
+            <!-- 第四行结束
+            第五行开始 -->
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhangNabaichuan.png" height="200"></div>
@@ -484,11 +424,14 @@ title: "Group Members"
                     </div>
                 </td>
             </tr>
-            <!-- 第七行结束 -->
+            <!-- 第五行结束 -->
         </tbody>
 </table>
 
 ### Graduated
+
+2026:
+> Yuqi Dong(NetEase), Zhiyang Hu(Ant Group), Lin Li(Tencent), Hongye Lu(Alibaba Cloud), Hongtao Zhang(Yanfu Investment), Yige Zou(Baidu)
 
 2025：
 > Hongjie Luo(Huawei), Zhongyu Qin(T-Head Semiconductor), Run Wan(Tencent), Yuan Xia(Alibaba), Hao Zhang(Tencent), Mengran Zhang
