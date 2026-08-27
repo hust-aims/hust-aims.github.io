@@ -7,9 +7,9 @@ title: "Publications"
 ## **2026**
 - **[HPCA]** **[Secret Caching Sauce for High-Performance Secure Memory](https://ieeexplore.ieee.org/abstract/document/11408600)** is accepted by the 32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
   <br/>Xu Jiang, Xueliang Wei, Yifei Qu, Dan Feng, Yulai Xie, Wei Tong.
-- **[DATE]** **[An IR drop-robust Mapping Method for Reliable Memristive Accelerators]()** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2026.
+- **[DATE]** **[An IR drop-robust Mapping Method for Reliable Memristive Accelerators](https://ieeexplore.ieee.org/abstract/document/11539583)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2026.
   <br/>Jinpeng Liu, Shiyi Song, Bing Wu, Huan Cheng, Heng Zhou, Xueliang Wei, Wei Tong and Dan Feng.
-- **[DATE]** **[Data Distribution-Aware Analog/Digital Conversion Strategy for Energy-Efficient Memristive In-Situ Accelerators](https://past.date-conference.com/proceedings-archive/2026/DATA/522.pdf)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2026.
+- **[DATE]** **[Data Distribution-Aware Analog/Digital Conversion Strategy for Energy-Efficient Memristive In-Situ Accelerators](https://ieeexplore.ieee.org/abstract/document/11539353)** is accepted by Design, Automation & Test in Europe Conference & Exhibition (DATE), 2026.
   <br/>Taoming Lei, Heng Zhou, Bing Wu, Wei Tong and Dan Feng.
 - **[DCC]** **[LPAQMP: Multilayer Parallel Design for LPAQ Compression](https://ieeexplore.ieee.org/abstract/document/11510361)** is accepted by Data Compression Conference (DCC), 2026.
   <br/>Panyue Wei, Weilin Zhu, Yifei Qu, Wei Tong.
@@ -154,6 +154,8 @@ title: "Publications"
 ## **2026**
 - **[TC]** **[pTree: Building Efficient B+-Tree on Non-volatile Memory with Processing-in-memory](https://ieeexplore.ieee.org/abstract/document/11505911)** is accepted by IEEE Transcations on Computers(TC), 2026. 
   <br/>Yibo Liu, Bing Wu, Shiyi Song, Xueliang Wei, Huan Cheng, Heng Zhou.
+- **[JSA]** **[ColRefresh: A variation-robust read disturbance mitigation framework in RRAM-based computing-in-memory architectures](https://www.sciencedirect.com/science/article/pii/S1383762126002456)** is accepted by Journal of Systems Architecture(JSA), 2026. 
+  <br/>Heng Zhou, Bing Wu, Jinpeng Liu, Huan Cheng, Taoming Lei, Zezheng Li, Dan Feng, Wei Tong, Xueliang Wei
 
 ## **2025**
 - **[TCAD]** **[CMD: A Cache-Assisted GPU Memory Deduplication Architecture](https://ieeexplore.ieee.org/document/10930882)** is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2025.
