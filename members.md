@@ -231,6 +231,9 @@ title: "Group Members"
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-SongShiyi.jpg" height="200"></div>
                 </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2026/26-XuXinyang.jpg" height="200"></div>
+                </td>
             </tr>
             <tr>
                 <td>
@@ -241,6 +244,11 @@ title: "Group Members"
                 <td>
                     <div style="text-align:center">
                         <p>Shiyi Song</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Xinyang Xu</p>
                     </div>
                 </td>
             </tr>
@@ -411,6 +419,9 @@ title: "Group Members"
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2025/25-ZhongYu.jpg" height="200"></div>
                 </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2026/26-HaoJiarui.jpg" height="200"></div>
+                </td>
             </tr>
             <tr>
                 <td>
@@ -423,8 +434,61 @@ title: "Group Members"
                         <p>Yu Zhong</p>
                     </div>
                 </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Jiarui Hao</p>
+                    </div>
+                </td>
             </tr>
             <!-- 第五行结束 -->
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2026/26-HuangJiaying.jpg" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2026/26-LiuZhongke.jpg" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2026/26-QuRui.jpg" height="200"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Jiaying Huang</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Zhongke Liu</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Rui Qu</p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2026/26-SunFeiyang.jpg" height="200"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2026/26-WangZijiang.jpg" height="200"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Feiyang Sun</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Zijiang Wang</p>
+                    </div>
+                </td>
+            </tr>
         </tbody>
 </table>
 
