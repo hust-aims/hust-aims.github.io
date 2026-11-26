@@ -239,7 +239,7 @@ title: "Group Members"
 </table>
 
 ### Graduated
-2025:
+2026:
 
 > Heng Zhou(Huawei)
 
